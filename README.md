@@ -14,7 +14,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 31 aug - Kickoff
 
-Als eerst had ik een fork van de model repository gemaakt en gepubliceerd via mijn eigen GitHub omgeving.
+Als eerste had ik een fork van de model repository gemaakt en gepubliceerd via mijn eigen GitHub omgeving.
 
 Een source hosting platform is een online omgeving waar je de code van een website kan beheren, bewaren en delen. Als hosting platform heb ik gekozen voor GitHub. Je kan met GitHub Pages een website uit je repository op het web zetten.
 
