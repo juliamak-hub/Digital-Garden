@@ -14,14 +14,11 @@ Deep dive 1 HTML & CSS Basics
 HTML is echt voor de inhoud van een website. CSS is voor de opmaak.
 
 Mijn vragen na het lezen van de introductie, basis webpagina' s en hallo CSS op [ internetingishard.nl ](https://internetingishard.netlify.app/html-and-css/):
-
 Wat is het verschil tussen de color en background color? 
 Wat veranderd er precies van kleur?
-
 Color veranderd de kleur van de tekst en background-color veranderd de kleur van de achtergrond. 
 
 Is er een goed overzicht waar je alle HTML en CSS elementen kan zien? 
-
 De site[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet. 
 
 Een Zaak die mij verwondert uit[ MDN ](https://developer.mozilla.org/en-US/):
