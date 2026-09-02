@@ -21,7 +21,6 @@ Color veranderd de kleur van de tekst en background-color veranderd de kleur van
 
 
 Is er een goed overzicht waar je alle HTML en CSS elementen kan zien? 
-
 De site[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet. 
 
 
