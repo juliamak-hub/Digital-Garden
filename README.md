@@ -19,13 +19,16 @@ Wat veranderd er precies van kleur?
 
 Color veranderd de kleur van de tekst en background-color veranderd de kleur van de achtergrond. 
 
+
 Is er een goed overzicht waar je alle HTML en CSS elementen kan zien? 
 
 De site[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet. 
 
+
 Een Zaak die mij verwondert uit[ MDN ](https://developer.mozilla.org/en-US/):
 
 Je kan best wel makkelijk video's in je website toevoegen. Als eerste verwachting dacht ik dat dit heel lang zou gaan duren. Ook kan je MDN goed gebruiken om meer over CSS,HTML & Javascript te weten te komen. 
+
 
 Deep dive 2 MMD, micro-interacties, forms
 We hebben hier herhaling gehad van onderdelen uit jaar 1. De affordance, feedforward, feedbackward, cue & prompt herhaalt. We hebben het gehad over micro interacties, zoals de trigger, rules, feedback & loop. Als laatst kregen we de opdracht om een papieren menu kaart online duidelijker te maken. 
