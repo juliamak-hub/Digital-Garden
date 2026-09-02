@@ -30,6 +30,7 @@ Je kan best wel makkelijk video's in je website toevoegen. Als eerste verwachtin
 
 
 Deep dive 2 MMD, micro-interacties, forms
+
 We hebben hier herhaling gehad van onderdelen uit jaar 1. De affordance, feedforward, feedbackward, cue & prompt herhaalt. We hebben het gehad over micro interacties, zoals de trigger, rules, feedback & loop. Als laatst kregen we de opdracht om een papieren menu kaart online duidelijker te maken. 
 
 <img width="672" height="437" alt="Scherm­afbeelding 2026-09-02 om 16 30 24" src="https://github.com/user-attachments/assets/83c19e52-c253-45c2-ada5-4029b50f5aa8" />
