@@ -20,6 +20,7 @@ Wat veranderd er precies van kleur?
 Color veranderd de kleur van de tekst en background-color veranderd de kleur van de achtergrond. 
 
 Is er een goed overzicht waar je alle HTML en CSS elementen kan zien? 
+
 De site[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet. 
 
 Een Zaak die mij verwondert uit[ MDN ](https://developer.mozilla.org/en-US/):
