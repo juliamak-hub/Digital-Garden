@@ -6,13 +6,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 4 september
 Deep dive 3 Praktische css
-Mijn lelijke website:<img width="574" height="670" alt="Scherm­afbeelding 2026-09-04 om 09 17 40" src="https://github.com/user-attachments/assets/bbb8d576-f953-4a68-ab4d-b3602a3e9372" /> Na de deep dive:
+Mijn lelijke website:<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 05 20" src="https://github.com/user-attachments/assets/458fac90-b2ce-4fd4-ac82-afdbb4b18f7d" />
+ Na de deep dive:
 
-<img width="607" height="710" alt="Scherm­afbeelding 2026-09-04 om 11 05 20" src="https://github.com/user-attachments/assets/2413d5a2-712a-4904-8e17-2b5de94eae4c" />
+<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 05 20" src="https://github.com/user-attachments/assets/2413d5a2-712a-4904-8e17-2b5de94eae4c" />
 
-<img width="680" height="720" alt="Scherm­afbeelding 2026-09-04 om 11 29 59" src="https://github.com/user-attachments/assets/6aa24003-0d07-43ba-b059-6ab9a38afae6" />
+<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 29 59" src="https://github.com/user-attachments/assets/6aa24003-0d07-43ba-b059-6ab9a38afae6" />
 
-<img width="705" height="719" alt="Scherm­afbeelding 2026-09-04 om 11 30 11" src="https://github.com/user-attachments/assets/d3450f70-0be0-4ecf-b192-6050f796c4de" />
+<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 30 11" src="https://github.com/user-attachments/assets/d3450f70-0be0-4ecf-b192-6050f796c4de" />
 
 
 
@@ -25,7 +26,11 @@ Ik heb mijn website hier op dark mode staan. Ik heb geleerd tijdens de les hoe i
 Deep dive 4 css: fonts met kleuren en effecten.
 De volgende afbeeldingen heb ik in deze deep dive geleerd te maken.
 <img width="290" height="293" alt="Scherm­afbeelding 2026-09-05 om 13 01 22" src="https://github.com/user-attachments/assets/422cf13a-19a1-493a-9ccd-8d78c57005e0" />
-<img width="486" height="647" alt="Scherm­afbeelding 2026-09-05 om 12 15 33" src="https://github.com/user-attachments/assets/6798ba3c-40e5-4961-9f16-bb1233e36d39" />
+<img width="200" height="250" alt="Scherm­afbeelding 2026-09-05 om 12 15 33" src="https://github.com/user-attachments/assets/6798ba3c-40e5-4961-9f16-bb1233e36d39" />
+
+Hover butto gemaakt:
+<img width="287" height="57" alt="Scherm­afbeelding 2026-09-05 om 13 24 31" src="https://github.com/user-attachments/assets/cf318aa2-536e-445b-8481-0bfd72827d78" />
+<img width="289" height="65" alt="Scherm­afbeelding 2026-09-05 om 13 24 25" src="https://github.com/user-attachments/assets/0a405924-4a7c-44bc-b64c-0977b39c7565" />
 
 
 
