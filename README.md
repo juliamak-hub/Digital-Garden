@@ -5,7 +5,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 4 september
-Deep dive 3 Praktische css
+Deep dive 3 Praktische css.
 Mijn lelijke website:
 <img width="330" height="450" alt="Scherm­afbeelding 2026-09-04 om 09 17 40" src="https://github.com/user-attachments/assets/821d5507-308c-427c-9905-065fcf1cd485" />
 
