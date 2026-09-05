@@ -4,9 +4,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### [...]
+### 4 september
+Deep dive 3 Praktische css
+Mijn lelijke website:<img width="574" height="670" alt="Scherm­afbeelding 2026-09-04 om 09 17 40" src="https://github.com/user-attachments/assets/bbb8d576-f953-4a68-ab4d-b3602a3e9372" />
 
-[...]
+Na de deep dive:<img width="705" height="719" alt="Scherm­afbeelding 2026-09-04 om 11 30 11" src="https://github.com/user-attachments/assets/278a2b1c-0cf6-4a96-9f01-8936d65692f5" />
+<img width="680" height="720" alt="Scherm­afbeelding 2026-09-04 om 11 29 59" src="https://github.com/user-attachments/assets/d3dba550-8073-4a95-8082-165c3d081756" />
+<img width="607" height="710" alt="Scherm­afbeelding 2026-09-04 om 11 05 20" src="https://github.com/user-attachments/assets/2413d5a2-712a-4904-8e17-2b5de94eae4c" />
+Ik heb mijn website hier op dark mode staan. Ik heb geleerd tijdens de les hoe ik dark mode moest instellen. De uitstraling van de website is beter geworden. 
+[Utopia
+](https://utopia.fyi/type/calculator/?c=360,16,1.2,1440,22,1.618,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12)
+[,met deze site kan je makkelijk codes samenstellen op basis van je webpagina.]
+
+Deep dive 4 css: fonts met kleuren en effecten.
+De volgende afbeeldingen heb ik in deze deep dive geleerd te maken.
+<img width="290" height="293" alt="Scherm­afbeelding 2026-09-05 om 13 01 22" src="https://github.com/user-attachments/assets/422cf13a-19a1-493a-9ccd-8d78c57005e0" />
+<img width="486" height="647" alt="Scherm­afbeelding 2026-09-05 om 12 15 33" src="https://github.com/user-attachments/assets/6798ba3c-40e5-4961-9f16-bb1233e36d39" />
+
+
+
 
 ### 2 sept - [Workshop]
 Deep dive 1 HTML & CSS Basics
