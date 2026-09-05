@@ -6,14 +6,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 4 september
 Deep dive 3 Praktische css
-Mijn lelijke website:<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 05 20" src="https://github.com/user-attachments/assets/458fac90-b2ce-4fd4-ac82-afdbb4b18f7d" />
- Na de deep dive:
+Mijn lelijke website:
+<img width="330" height="450" alt="Scherm­afbeelding 2026-09-04 om 09 17 40" src="https://github.com/user-attachments/assets/821d5507-308c-427c-9905-065fcf1cd485" />
 
-<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 05 20" src="https://github.com/user-attachments/assets/2413d5a2-712a-4904-8e17-2b5de94eae4c" />
+Na de deep dive:
 
-<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 29 59" src="https://github.com/user-attachments/assets/6aa24003-0d07-43ba-b059-6ab9a38afae6" />
+<img width="330" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 05 20" src="https://github.com/user-attachments/assets/2413d5a2-712a-4904-8e17-2b5de94eae4c" />
 
-<img width="300" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 30 11" src="https://github.com/user-attachments/assets/d3450f70-0be0-4ecf-b192-6050f796c4de" />
+<img width="330" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 29 59" src="https://github.com/user-attachments/assets/6aa24003-0d07-43ba-b059-6ab9a38afae6" />
+
+<img width="330" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 30 11" src="https://github.com/user-attachments/assets/d3450f70-0be0-4ecf-b192-6050f796c4de" />
 
 
 
