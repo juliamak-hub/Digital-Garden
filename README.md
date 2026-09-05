@@ -31,8 +31,9 @@ De volgende afbeeldingen heb ik in deze deep dive geleerd te maken.
 <img width="200" height="250" alt="Scherm­afbeelding 2026-09-05 om 12 15 33" src="https://github.com/user-attachments/assets/6798ba3c-40e5-4961-9f16-bb1233e36d39" />
 
 Hover butto gemaakt:
-<img width="287" height="57" alt="Scherm­afbeelding 2026-09-05 om 13 24 31" src="https://github.com/user-attachments/assets/cf318aa2-536e-445b-8481-0bfd72827d78" />
 <img width="289" height="65" alt="Scherm­afbeelding 2026-09-05 om 13 24 25" src="https://github.com/user-attachments/assets/0a405924-4a7c-44bc-b64c-0977b39c7565" />
+<img width="287" height="57" alt="Scherm­afbeelding 2026-09-05 om 13 24 31" src="https://github.com/user-attachments/assets/cf318aa2-536e-445b-8481-0bfd72827d78" />
+
 
 
 
