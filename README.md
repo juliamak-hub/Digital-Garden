@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 7 september
+1. Het is nooit af. Het is iets persoonlijker dan een reguliere website. Je maakt het niet om viraal te gaan. Een reguliere website heeft vaak een doel en regels, een digital garden hoeft dat niet te hebben. Toegangelijk zijn.
+
+2. De digital garden moet duidelijk zijn. Het moet een duidelijke hiërarchie hebben en er moet duidelijk staan waar je natte kan wat er in de website staat. Je moet kunnen zien dat het persoonlijk is voor iemand. De website die mij het meeste inspireerde was [ annaecook.com
+](https://annaecook.com), De visuals trekt veel aandacht wat ervoor zorgt dat ik alles wilde lezen.
+
+3. Ik wil aan de slag gaan met het kleurthema die ik wil gebruiken tijdens mijn website, welke informatie ik er in wil zetten en hoe ik dat ga doen.
+
 ### 4 september
 Deep dive 3 Praktische css.
 Mijn lelijke website:
