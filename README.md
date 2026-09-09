@@ -28,7 +28,7 @@ crazy 8 & beoordeling<img width="571" height="459" alt="Scherm­afbeelding 2026-
 
 
 Checkout:
-1. Visual research werkt in 3 stappen:
+1. Visual research in 3 stappen:
 - Directe visuele beelden
 - abstract visuele vertaling
 - uitgangspunten opschrijven
