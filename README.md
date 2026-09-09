@@ -4,6 +4,28 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 8 september
+<img width="1131" height="848" alt="Scherm­afbeelding 2026-09-09 om 13 18 53" src="https://github.com/user-attachments/assets/fbab53c0-766f-4076-b90c-a32de064909e" />
+<img width="1127" height="845" alt="Scherm­afbeelding 2026-09-09 om 13 18 46" src="https://github.com/user-attachments/assets/991808f8-8b1c-4922-9715-8b500f6ef1c2" />
+<img width="1131" height="850" alt="Scherm­afbeelding 2026-09-09 om 13 18 40" src="https://github.com/user-attachments/assets/68133c01-9f7a-4189-a59d-2383f42cd7ab" />
+<img width="1127" height="842" alt="Scherm­afbeelding 2026-09-09 om 13 18 33" src="https://github.com/user-attachments/assets/7b3d7ea4-7dda-4fbe-9445-124223bb936d" />
+<img width="1130" height="845" alt="Scherm­afbeelding 2026-09-09 om 13 18 26" src="https://github.com/user-attachments/assets/4a2c6e43-a274-4399-a2dd-a3cf4792ab29" />
+<img width="1133" height="845" alt="Scherm­afbeelding 2026-09-09 om 13 18 20" src="https://github.com/user-attachments/assets/80e5756b-ebc7-40a3-ae5c-d0d7cedea1a8" />
+<img width="1132" height="849" alt="Scherm­afbeelding 2026-09-09 om 13 18 13" src="https://github.com/user-attachments/assets/4bc16082-10d5-4855-817d-f47386b0a4b2" />
+<img width="1139" height="851" alt="Scherm­afbeelding 2026-09-09 om 13 18 05" src="https://github.com/user-attachments/assets/fe237285-d4d4-411c-a236-a63dfbd35f45" />
+<img width="1143" height="850" alt="Scherm­afbeelding 2026-09-09 om 13 17 56" src="https://github.com/user-attachments/assets/96dbbaa4-5a19-4e8c-9b12-e700d5d5a48c" />
+<img width="1131" height="844" alt="Scherm­afbeelding 2026-09-09 om 13 17 47" src="https://github.com/user-attachments/assets/e4b4b214-5871-4272-9c6f-9da07cf10e21" />
+<img width="1137" height="846" alt="Scherm­afbeelding 2026-09-09 om 13 17 40" src="https://github.com/user-attachments/assets/4890c3ce-a262-4193-92d1-b6846cb02388" />
+<img width="1143" height="850" alt="Scherm­afbeelding 2026-09-09 om 13 17 30" src="https://github.com/user-attachments/assets/ebe56989-a76c-4305-b9d7-241cfeca88a7" />
+<img width="1143" height="845" alt="Scherm­afbeelding 2026-09-09 om 13 17 22" src="https://github.com/user-attachments/assets/a256b8bc-28f4-4775-bf8a-cb0976c9b76c" />
+<img width="1141" height="809" alt="Scherm­afbeelding 2026-09-09 om 13 17 13" src="https://github.com/user-attachments/assets/c2df6b08-5cca-4537-8c78-03fa3407d30d" />
+
+Dit is mijn HTML presentatie
+
+
+
+
+
 ### 7 september
 1. Het is nooit af. Het is iets persoonlijker dan een reguliere website. Je maakt het niet om viraal te gaan. Een reguliere website heeft vaak een doel en regels, een digital garden hoeft dat niet te hebben. Toegangelijk zijn.
 
