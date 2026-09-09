@@ -21,7 +21,19 @@ Het sfeerwoord dat bij geïmponeerd past is voor mij: levendig, chic, sfeervol, 
 
 
 crazy 8<img width="571" height="459" alt="Scherm­afbeelding 2026-09-09 om 15 57 14" src="https://github.com/user-attachments/assets/7aba1dd1-0dac-495f-b947-72d88367a2ab" />
+<img width="400" height="315" alt="Scherm­afbeelding 2026-09-09 om 17 19 35" src="https://github.com/user-attachments/assets/da855827-6f09-4ed2-af78-d5ceda72b1e5" />
+<img width="400" height="315" alt="Scherm­afbeelding 2026-09-09 om 17 19 29" src="https://github.com/user-attachments/assets/2597f852-247e-4fd5-8251-af232c29ad8b" />
+<img width="400" height="315" alt="Scherm­afbeelding 2026-09-09 om 17 19 21" src="https://github.com/user-attachments/assets/43d04cdd-cc39-4cbf-8545-44294c0d12ec" />
+<img width="400" height="315" alt="Scherm­afbeelding 2026-09-09 om 17 19 14" src="https://github.com/user-attachments/assets/8c7b3112-6238-4c4c-a612-515a1cde2374" />
 
+
+Checkout:
+Visual research werkt in 3 stappen:
+1. Directe visuele beelden
+2. abstract visuele vertaling
+3. uitgangspunten opschrijven
+
+Ik heb nu uitgangspunten die ik vooraf niet had kunnen verzinnen. Met die uitgangspunten gingen we diverse ideeën schetsen met gebruik van crazy 8. Hierna heb ik mijn crazy 8 beoordeeld. Je werkt naar de eerste ideeën voor een opzet van je website toe.
 
 ### 8 september
 De HTML presentatie
@@ -33,9 +45,15 @@ De HTML presentatie
 <img width="1136" height="844" alt="Scherm­afbeelding 2026-09-09 om 13 46 38" src="https://github.com/user-attachments/assets/54b7dfef-2577-4f2b-90da-a4bac8ea4ad5" />
 <img width="1126" height="842" alt="Scherm­afbeelding 2026-09-09 om 13 46 56" src="https://github.com/user-attachments/assets/0632d098-bee6-488b-ba66-55a1ea97d263" />
 <img width="1123" height="843" alt="Scherm­afbeelding 2026-09-09 om 13 47 04" src="https://github.com/user-attachments/assets/b5ff0e4a-0d30-4cde-a06d-bd0b563791ab" />
+ 
 
+Checkout:
+Visual research werkt in 3 stappen:
+1. Directe visuele beelden
+2. abstract visuele vertaling
+3. uitgangspunten opschrijven
 
-
+Ik heb nu uitgangspunten die ik vooraf niet had kunnen verzinnen. Met die uitgangspunten gingen we diverse ideeën schetsen met gebruik van crazy 8. Hierna heb ik mijn crazy 8 beoordeeld. Je werkt naar de eerste ideeën voor een opzet van je website toe.
 
 
 
