@@ -9,7 +9,7 @@ De HTML presentatie
 
 <img width="1138" height="808" alt="Scherm­afbeelding 2026-09-09 om 13 45 36" src="https://github.com/user-attachments/assets/3259cadc-7986-434c-ba26-bf92ea76d06a" />
 <img width="1130" height="851" alt="Scherm­afbeelding 2026-09-09 om 13 46 12" src="https://github.com/user-attachments/assets/7de98c37-014c-4cce-9fbd-2f1b521460d5" />
-<img width="1128" height="851" alt="Scherm­afbeelding 2026-09-09 om 13 46 18" src="https://github.com/user-attachments/assets/1b0d66bc-f872-4c17-a04a-2234c66b7e05" />
+<img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 14 00 34" src="https://github.com/user-attachments/assets/8eaaa10b-d19a-46ba-8222-45a569f9912e" />
 <img width="1127" height="846" alt="Scherm­afbeelding 2026-09-09 om 13 46 26" src="https://github.com/user-attachments/assets/44859f5b-3238-4e98-9a0b-c4c40fd1d4f6" />
 <img width="1136" height="844" alt="Scherm­afbeelding 2026-09-09 om 13 46 38" src="https://github.com/user-attachments/assets/54b7dfef-2577-4f2b-90da-a4bac8ea4ad5" />
 <img width="1126" height="842" alt="Scherm­afbeelding 2026-09-09 om 13 46 56" src="https://github.com/user-attachments/assets/0632d098-bee6-488b-ba66-55a1ea97d263" />
