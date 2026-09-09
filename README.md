@@ -35,7 +35,7 @@ Checkout:
 
 Ik heb nu uitgangspunten die ik vooraf niet had kunnen verzinnen. Met die uitgangspunten gingen we diverse ideeën schetsen met gebruik van crazy 8. Hierna heb ik mijn crazy 8 beoordeeld. Je werkt naar de eerste ideeën voor een opzet van je website toe.
 
-2. Mijn garden gaat over verschillende soorten en ontwikkelingen van lelies. Dit ga ik doen aan de hand van elegante, maar kleurrijke text, opvallende Visuals, dark/light mode, over effecten, login/registratie. Opties zijn nog video met sound en een review mogelijkheid.
+2. Mijn garden gaat over verschillende soorten en ontwikkelingen van lelies. Dit ga ik doen aan de hand van elegante, maar kleurrijke text, opvallende Visuals, dark/light mode, hover effecten, login/registratie. Opties zijn nog video met sound en een review mogelijkheid.
 
 3. Ik wil graag makkelijke klik functies toevoegen. Ook wil ik dat wat ik aan text heb kort maar krachtig maken zodat de gebruiker de aandacht er bij kan houden. Korte stukken tekst inplaats van alles bij elkaar. Als het lukt een carrousel maken. 
 
