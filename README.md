@@ -7,10 +7,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 9 september
 Visual Research. Ik voel mij: geïmponeerd
 
-<img width="818" height="403" alt="Scherm­afbeelding 2026-09-09 om 15 07 47" src="https://github.com/user-attachments/assets/5e0707a9-98ba-431c-b164-134b3b311b1b" />
+<img width="700" height="300" alt="Scherm­afbeelding 2026-09-09 om 15 07 47" src="https://github.com/user-attachments/assets/5e0707a9-98ba-431c-b164-134b3b311b1b" />
 Wat ik heb opgemerkt:  Lelies zijn heel populair in wit, roze en de combinatie hiervan. Hun uitstraling is chic en sfeervol. Er zijn veel vloeiende patronen en lettertypes. Het gevoel liefde, plezier, respect en bewondering komt bij mij het meest naar boven. Lelies zijn vaak ook een gebaar van waardering en genegenheid. Opvallend materiaal is glas, dit had ik in de eerste instantie niet verwacht. Lelies staan wel vaak in een glazen vaas, omdat die stevig een hoog genoeg zijn om lelies in te zetten. Ik zie ook veel het gebruik van warm licht. Warm licht zorgt vaak voor veel sfeer.
 
 Het sfeerwoord dat bij geïmponeerd past is voor mij: levendig, chic, sfeervol, waardering, bewondering, respect en liefde. Ik herken warmtelicht, transparant materiaal, dunne lijnen, golvende bewegingen.
+
+<img width="750" height="330" alt="Scherm­afbeelding 2026-09-09 om 15 34 50" src="https://github.com/user-attachments/assets/fb9602ce-847d-4f9e-9529-efd68f24146e" />
+
 ### 8 september
 De HTML presentatie
 
