@@ -99,17 +99,10 @@ iPhone
 <img width="300" height="200" alt="Scherm­afbeelding 2026-09-10 om 11 42 02" src="https://github.com/user-attachments/assets/9de58be1-6b8d-4e39-8756-a2791616d8da" />
 
 
-Hover state 
+Hover state & focus state
+<img width="420" height="175" alt="Scherm­afbeelding 2026-09-10 om 14 24 26" src="https://github.com/user-attachments/assets/8bbb91bc-aabe-4df7-bbd4-aa22d51b439e" />
 
-<img width="521" height="62" alt="Scherm­afbeelding 2026-09-10 om 11 05 50" src="https://github.com/user-attachments/assets/5906cabc-b6cb-49af-a7d8-1d4dd614b112" />
-<img width="521" height="62" alt="Scherm­afbeelding 2026-09-10 om 11 03 44" src="https://github.com/user-attachments/assets/b286d078-ea09-45bf-97f9-56503bdced77" />
 
-<img width="400" height="200" alt="Scherm­afbeelding 2026-09-10 om 13 55 17" src="https://github.com/user-attachments/assets/082c1503-2f09-45c4-8571-7c8f7942ae8c" />
-<img width="300" height="100" alt="Scherm­afbeelding 2026-09-10 om 13 55 09" src="https://github.com/user-attachments/assets/b3ffe034-473d-48c0-822b-4ca6a7a17e90" />
-<img width="300" height="80" alt="Scherm­afbeelding 2026-09-10 om 13 55 01" src="https://github.com/user-attachments/assets/b6865bb1-e2cd-4383-90cd-e9c89c71da0c" />
-<img width="150" height="25" alt="Scherm­afbeelding 2026-09-10 om 11 07 04" src="https://github.com/user-attachments/assets/ea09b041-fbac-4c55-a73a-e408380a95be" />
-<img width="126" height="56" alt="Scherm­afbeelding 2026-09-10 om 11 06 47" src="https://github.com/user-attachments/assets/95f67b67-8c78-43cd-a6dd-ca182bd769f6" />
-<img width="300" height="100" alt="Scherm­afbeelding 2026-09-10 om 11 07 13" src="https://github.com/user-attachments/assets/9663f52e-579c-4aad-9817-080cf21fea62" />
 
 hele website
 
