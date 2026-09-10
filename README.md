@@ -13,15 +13,15 @@ Wat ik heb opgemerkt:  Lelies zijn heel populair in wit, roze en de combinatie 
 
 Het sfeerwoord dat bij geïmponeerd past is voor mij: levendig, chic, sfeervol, waardering, bewondering, respect en liefde. Ik herken warmtelicht, transparant materiaal, dunne lijnen, golvende bewegingen.
 
-<img width="750" height="330" alt="Scherm­afbeelding 2026-09-09 om 15 34 50" src="https://github.com/user-attachments/assets/fb9602ce-847d-4f9e-9529-efd68f24146e" />
+<img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 34 50" src="https://github.com/user-attachments/assets/fb9602ce-847d-4f9e-9529-efd68f24146e" />
 
-<img width="744" height="389" alt="Scherm­afbeelding 2026-09-09 om 15 49 22" src="https://github.com/user-attachments/assets/8ef4978e-b499-4fb1-8446-6ebf7803db7b" />
+<img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 49 22" src="https://github.com/user-attachments/assets/8ef4978e-b499-4fb1-8446-6ebf7803db7b" />
 <img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 49 16" src="https://github.com/user-attachments/assets/4b98df52-77d5-4aa2-8600-40dc46df49a4" />
-<img width="748" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 49 03" src="https://github.com/user-attachments/assets/0f4ddc6f-f603-4134-8318-3da2efdbf2e7" />
+<img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 49 03" src="https://github.com/user-attachments/assets/0f4ddc6f-f603-4134-8318-3da2efdbf2e7" />
 <img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 43 43" src="https://github.com/user-attachments/assets/9d641ab1-537c-4079-b504-c1eb78c1bded" /> 
 
 
-crazy 8 & beoordeling<img width="571" height="459" alt="Scherm­afbeelding 2026-09-09 om 15 57 14" src="https://github.com/user-attachments/assets/7aba1dd1-0dac-495f-b947-72d88367a2ab" />
+width="571" height="459" alt="Scherm­afbeelding 2026-09-09 om 15 57 14" src="https://github.com/user-attachments/assets/7aba1dd1-0dac-495f-b947-72d88367a2ab" />crazy 8 & beoordeling<img 
 <img width="450" height="325" alt="Scherm­afbeelding 2026-09-09 om 17 19 35" src="https://github.com/user-attachments/assets/da855827-6f09-4ed2-af78-d5ceda72b1e5" />
 <img width="450" height="325" alt="Scherm­afbeelding 2026-09-09 om 17 19 29" src="https://github.com/user-attachments/assets/2597f852-247e-4fd5-8251-af232c29ad8b" />
 <img width="450" height="325" alt="Scherm­afbeelding 2026-09-09 om 17 19 21" src="https://github.com/user-attachments/assets/43d04cdd-cc39-4cbf-8545-44294c0d12ec" />
