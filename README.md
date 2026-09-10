@@ -1,3 +1,4 @@
+<img width="592" height="662" alt="Scherm­afbeelding 2026-09-10 om 12 13 51" src="https://github.com/user-attachments/assets/0c873036-1a98-42b4-be20-b190c8e8bce6" />
 # Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
@@ -62,7 +63,9 @@ Klein scherm<img width="400" height="400" alt="Scherm­afbeelding 2026-09-10 om 
 <img width="400" height="400" alt="Scherm­afbeelding 2026-09-10 om 13 30 52" src="https://github.com/user-attachments/assets/b9f6a5d8-58b9-43e2-8a2e-7c128f7d73bf" />
 
 Cupcake<img width="589" height="648" alt="Scherm­afbeelding 2026-09-10 om 12 13 59" src="https://github.com/user-attachments/assets/dd80db81-9f28-4675-aceb-364fa9644243" />
-<img width="589" height="648" alt="Scherm­afbeelding 2026-09-10 om 12 13 59" src="https://github.com/user-attachments/assets/82b91a38-fa4b-4d44-abdb-1f98fa50429b" />
+<img width="592" height="662" alt="Scherm­afbeelding 2026-09-10 om 12 13 51" src="https://github.com/user-attachments/assets/144b3cbd-f66f-40a8-b986-8aee162f6a33" />
+
+
 
 Eenhoorns<img width="738" height="888" alt="Scherm­afbeelding 2026-09-10 om 12 05 25" src="https://github.com/user-attachments/assets/4113a411-d318-42ab-af95-6206e574a947" />
 <img width="741" height="881" alt="Scherm­afbeelding 2026-09-10 om 12 05 13" src="https://github.com/user-attachments/assets/2c01ecab-9053-4c3d-940c-95308ec21298" />
@@ -83,6 +86,9 @@ Hover state:
 <img width="514" height="66" alt="Scherm­afbeelding 2026-09-10 om 11 05 50" src="https://github.com/user-attachments/assets/5906cabc-b6cb-49af-a7d8-1d4dd614b112" />
 <img width="521" height="62" alt="Scherm­afbeelding 2026-09-10 om 11 03 44" src="https://github.com/user-attachments/assets/b286d078-ea09-45bf-97f9-56503bdced77" />
 
+<img width="920" height="415" alt="Scherm­afbeelding 2026-09-10 om 13 55 17" src="https://github.com/user-attachments/assets/082c1503-2f09-45c4-8571-7c8f7942ae8c" />
+<img width="584" height="220" alt="Scherm­afbeelding 2026-09-10 om 13 55 09" src="https://github.com/user-attachments/assets/b3ffe034-473d-48c0-822b-4ca6a7a17e90" />
+<img width="592" height="178" alt="Scherm­afbeelding 2026-09-10 om 13 55 01" src="https://github.com/user-attachments/assets/b6865bb1-e2cd-4383-90cd-e9c89c71da0c" />
 <img width="318" height="59" alt="Scherm­afbeelding 2026-09-10 om 11 07 04" src="https://github.com/user-attachments/assets/ea09b041-fbac-4c55-a73a-e408380a95be" />
 <img width="126" height="56" alt="Scherm­afbeelding 2026-09-10 om 11 06 47" src="https://github.com/user-attachments/assets/95f67b67-8c78-43cd-a6dd-ca182bd769f6" />
 <img width="335" height="58" alt="Scherm­afbeelding 2026-09-10 om 11 07 13" src="https://github.com/user-attachments/assets/9663f52e-579c-4aad-9817-080cf21fea62" />
