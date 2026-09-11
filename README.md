@@ -17,6 +17,16 @@ Je bent professioneel en gestructureerd bezig.
 Blijf kijken of je website Webby is, je kan dit altijd vragen bij feedback momenten.
 <br>
 
+FDND les gevolgd:
+
+
+Deep Dive Grid:
+[Grid generator](https://cssgridgenerator.com)
+
+Mijn uitgewerkte oefeningen:
+
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 25 48" src="https://github.com/user-attachments/assets/c6398464-5480-48dd-8914-fbc1459f73a9" />
+
 5 Mobile-first schetsen:
 
 <img width="300" height="480" alt="Scherm­afbeelding 2026-09-11 om 12 10 10" src="https://github.com/user-attachments/assets/fcabe23b-7494-46bf-9bb6-58c2ea5180a4" />
