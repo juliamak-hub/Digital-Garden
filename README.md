@@ -19,11 +19,11 @@ Blijf kijken of je website Webby is, je kan dit altijd vragen bij feedback momen
 
 5 Mobile-first schetsen:
 
-<img width="300" height="400" alt="Scherm­afbeelding 2026-09-11 om 12 10 10" src="https://github.com/user-attachments/assets/fcabe23b-7494-46bf-9bb6-58c2ea5180a4" />
-<img width="300" height="400" alt="Scherm­afbeelding 2026-09-11 om 12 09 17" src="https://github.com/user-attachments/assets/ef1dea2b-f4be-4e8c-9c48-8aa2d0089899" />
-<img width="300" height="400" alt="Scherm­afbeelding 2026-09-11 om 12 09 24" src="https://github.com/user-attachments/assets/27cd5055-3729-43ea-9821-ddb5a13aad67" />
-<img width="300" height="400" alt="Scherm­afbeelding 2026-09-11 om 12 09 11" src="https://github.com/user-attachments/assets/26d6118e-ce6c-4518-9d31-81a43a6afdd8" />
-<img width="300" height="400" alt="Scherm­afbeelding 2026-09-11 om 12 09 00" src="https://github.com/user-attachments/assets/e3495320-df1e-4df9-922b-d22e9a9bdf72" />
+<img width="300" height="500" alt="Scherm­afbeelding 2026-09-11 om 12 10 10" src="https://github.com/user-attachments/assets/fcabe23b-7494-46bf-9bb6-58c2ea5180a4" />
+<img width="300" height="500" alt="Scherm­afbeelding 2026-09-11 om 12 09 17" src="https://github.com/user-attachments/assets/ef1dea2b-f4be-4e8c-9c48-8aa2d0089899" />
+<img width="300" height="500" alt="Scherm­afbeelding 2026-09-11 om 12 09 24" src="https://github.com/user-attachments/assets/27cd5055-3729-43ea-9821-ddb5a13aad67" />
+<img width="300" height="500" alt="Scherm­afbeelding 2026-09-11 om 12 09 11" src="https://github.com/user-attachments/assets/26d6118e-ce6c-4518-9d31-81a43a6afdd8" />
+<img width="300" height="500" alt="Scherm­afbeelding 2026-09-11 om 12 09 00" src="https://github.com/user-attachments/assets/e3495320-df1e-4df9-922b-d22e9a9bdf72" />
 
 
 
