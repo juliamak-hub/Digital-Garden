@@ -5,6 +5,29 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 10 & 11 september
+
+Voortgangsgesprek feedback:
+Feedback Julia
+Je bent goed aan het oriënteren en begrijpen. 
+Je bent ook goed aan het verbeelden. Je verzamelt afbeeldingen en je bent goed aan het schetsen. 
+Het doen van de deepdives is essentieel voor dit blok. Dat doe je ook goed.
+Je evalueert door kritisch te kijken naar bijvoorbeeld je schetsen en crazy eights.
+Je bent professioneel en gestructureerd bezig. 
+Blijf kijken of je website Webby is, je kan dit altijd vragen bij feedback momenten.
+<br>
+
+5 Mobile-first schetsen:
+
+<img width="399" height="722" alt="Scherm­afbeelding 2026-09-11 om 12 10 10" src="https://github.com/user-attachments/assets/fcabe23b-7494-46bf-9bb6-58c2ea5180a4" />
+<img width="413" height="697" alt="Scherm­afbeelding 2026-09-11 om 12 09 17" src="https://github.com/user-attachments/assets/ef1dea2b-f4be-4e8c-9c48-8aa2d0089899" />
+<img width="739" height="614" alt="Scherm­afbeelding 2026-09-11 om 12 09 24" src="https://github.com/user-attachments/assets/27cd5055-3729-43ea-9821-ddb5a13aad67" />
+<img width="417" height="696" alt="Scherm­afbeelding 2026-09-11 om 12 09 11" src="https://github.com/user-attachments/assets/26d6118e-ce6c-4518-9d31-81a43a6afdd8" />
+<img width="581" height="582" alt="Scherm­afbeelding 2026-09-11 om 12 09 00" src="https://github.com/user-attachments/assets/e3495320-df1e-4df9-922b-d22e9a9bdf72" />
+
+
+
+
 ### 9 september
 Visual Research. Ik voel mij: geïmponeerd
 
@@ -111,6 +134,12 @@ hele website
 
 
 ### 7 september
+De garden and the stream & twee websites analyseren:
+<img width="539" height="656" alt="Scherm­afbeelding 2026-09-11 om 12 06 29" src="https://github.com/user-attachments/assets/3c07f7a2-5f4c-4291-bc8f-23214b818051" />
+
+<img width="575" height="798" alt="Scherm­afbeelding 2026-09-11 om 12 04 09" src="https://github.com/user-attachments/assets/886bb307-ff48-4aa6-a7c0-96de9febaf8f" />
+
+
 1. Het is nooit af. Het is iets persoonlijker dan een reguliere website. Je maakt het niet om viraal te gaan. Een reguliere website heeft vaak een doel en regels, een digital garden hoeft dat niet te hebben. Toegangelijk zijn.
 
 2. De digital garden moet duidelijk zijn. Het moet een duidelijke hiërarchie hebben en er moet duidelijk staan waar je natte kan wat er in de website staat. Je moet kunnen zien dat het persoonlijk is voor iemand. De website die mij het meeste inspireerde was [ annaecook.com
