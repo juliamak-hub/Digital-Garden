@@ -50,7 +50,7 @@ De HTML presentatie
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 46 18" src="https://github.com/user-attachments/assets/d4a26007-a097-4644-a98e-3020752c80b2" />
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 14 00 34" src="https://github.com/user-attachments/assets/8eaaa10b-d19a-46ba-8222-45a569f9912e" />
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 46 38" src="https://github.com/user-attachments/assets/54b7dfef-2577-4f2b-90da-a4bac8ea4ad5" />
-<img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 46 56" src="https://github.com/user-attachments/assets/0632d098-bee6-488b-ba66-55a1ea97d263" />
+<img width="1135" height="853" alt="Scherm­afbeelding 2026-09-11 om 09 21 22" src="https://github.com/user-attachments/assets/04f31c13-4553-4080-bdb0-eb6507f7e9a0" />
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 47 04" src="https://github.com/user-attachments/assets/b5ff0e4a-0d30-4cde-a06d-bd0b563791ab" />
  
 
