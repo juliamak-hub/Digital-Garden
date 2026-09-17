@@ -82,6 +82,36 @@ article:nth-of-type(2) {
   grid-row: 1/ 4;
 }
 
+main article button:nth-of-type(1) {
+  background: var(--background);
+  grid-column: 3;
+  grid-row: 1;
+  transform: rotate(-15deg);
+  width:100%;
+  max-width: 180px;
+  height: 240px;
+  justify-content: left;
+
+}
+
+main article button:nth-of-type(2) {
+  background: var(--background);
+  grid-column: 4;
+  grid-row: 1;
+  transform: rotate(15deg);
+  width:100%;
+  max-width: 180px;
+  height: 240px;
+}
+
+main article button:nth-of-type(3) {
+  background: var(--background);
+  grid-column: 3 / 5;
+  grid-row: 3 / 4;
+  width:100%;
+  max-width: 280px;
+  height: 100px;
+}
 
 
 header {
