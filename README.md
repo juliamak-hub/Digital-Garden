@@ -24,6 +24,12 @@ Mijn website nu:
 <img width="700" height="440" alt="Scherm­afbeelding 2026-09-16 om 14 16 43" src="https://github.com/user-attachments/assets/a6395941-d747-4a56-89cb-63ea46c8dcd3" />
 
 
+mobile schets op basis van mijn betwiste idee:
+<img width="371" height="689" alt="Scherm­afbeelding 2026-09-18 om 00 25 25" src="https://github.com/user-attachments/assets/e3b56469-3abc-401e-8868-cbeff6a00dbf" />
+
+
+
+
 checkout:
 
 3 gestalt principes:
