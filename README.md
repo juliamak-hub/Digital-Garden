@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 17 september
-Ik ben niet zo ver gekomen als dat ik zelf had gehoopt. Ik heb een home, login, review & contact pagina gemaakt. Ik heb het lettertype ImperialScript toegevoegd voor een sierlijke en elegante uitstraling. Dit heb ik gekozen, omdat er uit mijn visual research kwam dat lelies een sierlijke en elegante uitstraling hebben. Perfect dus voor een website die over lelies gaat.
+Ik ben niet zo ver gekomen als dat ik zelf had gehoopt. Ik heb een home, login, review & contact pagina gemaakt. Ik heb het lettertype ImperialScript toegevoegd voor een sierlijke en elegante uitstraling. Dit heb ik gekozen, omdat er uit mijn visual research kwam dat lelies een sierlijke en elegante uitstraling hebben. Perfect lettertype dus voor in een website die over lelies gaat.
 <img width="1500" height="886" alt="Scherm­afbeelding 2026-09-18 om 00 14 05" src="https://github.com/user-attachments/assets/55df69cc-8b81-4cf0-ae2e-c16deeb2a74b" />
 <img width="1501" height="889" alt="Scherm­afbeelding 2026-09-18 om 00 14 17" src="https://github.com/user-attachments/assets/05058769-3649-49ee-8ee1-5634434c5c45" />
 
