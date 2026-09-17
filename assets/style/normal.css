@@ -7,6 +7,7 @@
 }
 
 html {
+  font-family: "ImperialScript";
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background: light-dark(white, black);
@@ -14,8 +15,8 @@ html {
   --header-h1: light-dark(black, white);
   --header-label: light-dark(#b6ce88, #2b4f31);
   --left-column: light-dark(#D3ECA6, #355E3B);
-  --right-column: light-dark(#fcd5ff, #b884a7);
-  --main-button: light-dark(#e26d67, #eb8a85);
+  --right-column: light-dark(#fff2cf, #789161);
+  --main-button: light-dark(#e26d67, #86221d);
   --webright: light-dark(#D3ECA6, #355E3B);
 }
 
@@ -28,8 +29,6 @@ html:has([value="dark"]:checked) {
 }
 
 body {
-  font-family: "ImperialScript";
-  color: CanvasText;
   background: var(--background);
   color: var(--color);
   min-height: 100vh;
@@ -70,6 +69,10 @@ main>button {
   position: relative;
   justify-self: center;
   align-self: center;
+}
+
+a {
+  color: var(--color);
 }
 
 article:nth-of-type(2) {
