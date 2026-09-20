@@ -17,7 +17,7 @@ Retrospect:
 
 <img width="200" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 19" src="https://github.com/user-attachments/assets/419f468d-645a-4770-bb86-554c59a58087" />
 <img width="200" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 31" src="https://github.com/user-attachments/assets/c85d3382-56ed-473b-af4e-5fba4979d275" />
-<img width="500" height="225" alt="Scherm­afbeelding 2026-09-20 om 15 59 39" src="https://github.com/user-attachments/assets/4dfe5b30-ddb1-4dc2-8174-6be9971e93fe" />
+<img width="500" height="325" alt="Scherm­afbeelding 2026-09-20 om 15 59 39" src="https://github.com/user-attachments/assets/4dfe5b30-ddb1-4dc2-8174-6be9971e93fe" />
 <img width="500" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 47" src="https://github.com/user-attachments/assets/63c8f6de-b017-45d5-bc69-dd5f0d47d511" />
 
 
