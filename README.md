@@ -12,13 +12,13 @@ Er waren een paar kleine dingen waar ik nog aandacht aan moet besteden.
 <img width="700" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 53 23" src="https://github.com/user-attachments/assets/b3ada292-8ef3-48d4-b4a4-55136a109977" />
 
 Retrospect:
-<img width="400" height="200" alt="Scherm­afbeelding 2026-09-18 om 10 18 13" src="https://github.com/user-attachments/assets/ac88663b-9eab-4219-be2d-638afb29c1c6" />
-<img width="1261" height="556" alt="Scherm­afbeelding 2026-09-20 om 15 59 03" src="https://github.com/user-attachments/assets/a6e60fe2-3ed3-4e80-ae91-465da652cfca" />
+<img width="700" height="300" alt="Scherm­afbeelding 2026-09-18 om 10 18 13" src="https://github.com/user-attachments/assets/ac88663b-9eab-4219-be2d-638afb29c1c6" />
+<img width="500" height="250" alt="Scherm­afbeelding 2026-09-20 om 15 59 03" src="https://github.com/user-attachments/assets/a6e60fe2-3ed3-4e80-ae91-465da652cfca" />
 
-<img width="400" height="600" alt="Scherm­afbeelding 2026-09-20 om 15 59 19" src="https://github.com/user-attachments/assets/419f468d-645a-4770-bb86-554c59a58087" />
-<img width="400" height="600" alt="Scherm­afbeelding 2026-09-20 om 15 59 31" src="https://github.com/user-attachments/assets/c85d3382-56ed-473b-af4e-5fba4979d275" />
-<img width="500" height="450" alt="Scherm­afbeelding 2026-09-20 om 15 59 39" src="https://github.com/user-attachments/assets/4dfe5b30-ddb1-4dc2-8174-6be9971e93fe" />
-<img width="400" height="600" alt="Scherm­afbeelding 2026-09-20 om 15 59 47" src="https://github.com/user-attachments/assets/63c8f6de-b017-45d5-bc69-dd5f0d47d511" />
+<img width="200" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 19" src="https://github.com/user-attachments/assets/419f468d-645a-4770-bb86-554c59a58087" />
+<img width="200" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 31" src="https://github.com/user-attachments/assets/c85d3382-56ed-473b-af4e-5fba4979d275" />
+<img width="250" height="225" alt="Scherm­afbeelding 2026-09-20 om 15 59 39" src="https://github.com/user-attachments/assets/4dfe5b30-ddb1-4dc2-8174-6be9971e93fe" />
+<img width="200" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 47" src="https://github.com/user-attachments/assets/63c8f6de-b017-45d5-bc69-dd5f0d47d511" />
 
 
 
