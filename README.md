@@ -9,7 +9,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Voortgangsgesprek:
 Er waren een paar kleine dingen waar ik nog aandacht aan moet besteden.
 
-<img width="700" height="100" alt="Scherm­afbeelding 2026-09-20 om 15 53 23" src="https://github.com/user-attachments/assets/b3ada292-8ef3-48d4-b4a4-55136a109977" />
+<img width="700" height="200" alt="Scherm­afbeelding 2026-09-20 om 15 53 23" src="https://github.com/user-attachments/assets/b3ada292-8ef3-48d4-b4a4-55136a109977" />
 
 
 ### 17 september
