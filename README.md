@@ -5,6 +5,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 september
+Bron: [Modern Font Stacks](https://modernfontstacks.com/)
 ### 18 september
 Voortgangsgesprek:
 Er waren een paar kleine dingen waar ik nog aandacht aan moet besteden.
