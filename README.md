@@ -263,7 +263,7 @@ De garden and the stream & twee websites analyseren:
 
 1. Het is nooit af. Het is iets persoonlijker dan een reguliere website. Je maakt het niet om viraal te gaan. Een reguliere website heeft vaak een doel en regels, een digital garden hoeft dat niet te hebben. Toegangelijk zijn.
 
-2. De digital garden moet duidelijk zijn. Het moet een duidelijke hiërarchie hebben en er moet duidelijk staan waar je natte kan wat er in de website staat. Je moet kunnen zien dat het persoonlijk is voor iemand. De website die mij het meeste inspireerde was [ annaecook.com
+2. De digital garden moet duidelijk zijn. Het moet een duidelijke hiërarchie hebben en er moet duidelijk staan waar je natte kan wat er in de website staat. Je moet kunnen zien dat het persoonlijk is voor iemand. De website die mij het meeste inspireerde was Bron:[ annaecook.com
 ](https://annaecook.com), De visuals trekt veel aandacht wat ervoor zorgt dat ik alles wilde lezen.
 
 3. Ik wil aan de slag gaan met het kleurthema die ik wil gebruiken tijdens mijn website, welke informatie ik er in wil zetten en hoe ik dat ga doen.
@@ -285,9 +285,9 @@ Na de deep dive:
 
 
 Ik heb mijn website hier op dark mode staan. Ik heb geleerd tijdens de les hoe ik dark mode moest instellen. De uitstraling van de website is beter geworden. 
-[Utopia
+Bron:[Utopia
 ](https://utopia.fyi/type/calculator/?c=360,16,1.2,1440,22,1.618,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12)
-[Met deze site kan je makkelijk codes samenstellen op basis van je webpagina.]
+Bron:[Met deze site kan je makkelijk codes samenstellen op basis van je webpagina.]
 
 Deep dive 4 css: fonts met kleuren en effecten.
 De volgende afbeeldingen heb ik in deze deep dive geleerd te maken.
@@ -307,7 +307,7 @@ Deep dive 1 HTML & CSS Basics
 
 HTML is echt voor de inhoud van een website. CSS is voor de opmaak.
 
-Mijn vragen na het lezen van de introductie, basis webpagina' s en hallo CSS op [ internetingishard.nl ](https://internetingishard.netlify.app/html-and-css/):
+Mijn vragen na het lezen van de introductie, basis webpagina' s en hallo CSS in de Bron:[ internetingishard.nl ](https://internetingishard.netlify.app/html-and-css/):
 Wat is het verschil tussen de color en background color? 
 Wat veranderd er precies van kleur?
 
@@ -315,10 +315,10 @@ Color veranderd de kleur van de tekst en background-color veranderd de kleur van
 
 
 Is er een goed overzicht waar je alle HTML en CSS elementen kan zien? 
-De site[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet. 
+Bron:[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet. 
 
 
-Een Zaak die mij verwondert uit[ MDN ](https://developer.mozilla.org/en-US/):
+Een Zaak die mij verwondert uitBron:[ MDN ](https://developer.mozilla.org/en-US/):
 
 Je kan best wel makkelijk video's in je website toevoegen. Als eerste verwachting dacht ik dat dit heel lang zou gaan duren. Ook kan je MDN goed gebruiken om meer over CSS,HTML & Javascript te weten te komen. 
 
