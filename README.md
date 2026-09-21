@@ -9,6 +9,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Bron: [Modern Font Stacks](https://modernfontstacks.com/)
 <img width="1118" height="782" alt="Scherm­afbeelding 2026-09-21 om 14 36 22" src="https://github.com/user-attachments/assets/c7c1e87f-8625-460d-af5b-78d9f4b0b7ef" />
 
+checkout:
+Wat zijn HTMl landmark role elementen? 
+Speciale structurele secties op een webpagina die aangeven waar belangrijke onderdelen zich bevinden.
+
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+HTML tags die worden gebruikt om de hiërarchie en structuur van een webpagina te bepalen.
+
 ### 18 september
 Voortgangsgesprek:
 Er waren een paar kleine dingen waar ik nog aandacht aan moet besteden.
