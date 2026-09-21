@@ -21,6 +21,8 @@ Retrospect:
 <img width="500" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 47" src="https://github.com/user-attachments/assets/63c8f6de-b017-45d5-bc69-dd5f0d47d511" />
 
 
+Checkout:
+
 
 
 
