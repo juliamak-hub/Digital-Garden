@@ -7,7 +7,6 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 23 september
 Bron: [Gina Tricot](https://www.ginatricot.com/nl?utm_source=google&utm_medium=cpc&utm_campaign=nl-search-pure-brand&utm_content=Brand&utm_ad=661416503218&utm_term=gina%20tricot&matchtype=e&device=c&GeoLoc=9197724&placement=&network=g&campaign_id=20254584237&adset_id=150451357335&ad_id=661416503218&gad_source=1&gad_campaignid=20254584237&gbraid=0AAAAADpllJFevbi5qQvYbXr_yAE32TW1-&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ93aFu3qmxs1wkQFdBbZNWHU4hf4omlyr1cOOC7sGkP5gFmaB2vPZ8oaAoV9EALw_wcB)
-
 2:
 - Er is in het cookie scherm geen optie om de cookies af te wijzen.
 - De knop naar instellingen is veel kleiner en minder opvallend.
