@@ -58,8 +58,12 @@ video {
   height: auto;
 }
 
-nav {
-  color: var(--color-text);
+a {
+  color: var(--accent-color);
+}
+
+li {
+  color: var(--accent-color);
 }
 
 body {
@@ -117,11 +121,11 @@ h4 {
 }
 
 a:hover {
-  color: deeppink;
+  color: #db6588;
 }
 
 a:focus {
-  color: deeppink;
+  color: #e39bae;
   outline: 0.2em dashed deeppink;
 }
 
