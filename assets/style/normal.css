@@ -16,15 +16,16 @@
 html {
   color-scheme: light dark;
 
-  --color-cyan: light-dark(darkcyan, cyan);
-  --color-magenta: light-dark(darkmagenta, magenta);
-  --color-yellow: light-dark(goldenrod, yellow);
-  --color-dark: #333333;
-  --color-light: #fefefe;
+  --color-cyan: light-dark(#263B2E,#526B58);
+  --color-magenta: light-dark(#EDE6D8,#263B2E);
+  --color-yellow: light-dark(#263B2E,#526B58);
+  --color-dark: #EDE6D8;
+  --color-light: #333333;
+  --color-BO: light-dark(#EDE6D8,#19281f);
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
-  --color-text: light-dark(var(--color-dark), var(--color-light));
-  --accent-color: deeppink;
+  --color-text: light-dark(var(--color-light),var(--color-dark));
+  --accent-color: #EDE6D8;
   --border-width: 0.1em;
 
   --whitespace: 2em;
@@ -55,6 +56,10 @@ video {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+nav {
+  color: var(--color-text);
 }
 
 body {
@@ -96,6 +101,7 @@ textarea {
 
 h1 {
   font-size: var(--step-3);
+  color: var(--color-BO);
 }
 
 h2 {
