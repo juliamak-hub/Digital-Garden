@@ -9,6 +9,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "MeieScript";
+  src: url(../type/MeieScript-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
 /**************************
 * MARK: Custom properties
 **************************/
@@ -160,12 +167,19 @@ header {
   justify-content: space-between;
 }
 
+header h1 mark {
+  font-family: MeieScript;
+  background-color: var(--color-yellow);
+  color: var(--color-magenta);
+}
+
 header ul {
 grid-area: header;
 display:flex;
-gap: 1.5em;
+gap: 3em;
 margin: var(--whitespace);
 padding: var(--whitespace);
+
 }
 
 /**************************
