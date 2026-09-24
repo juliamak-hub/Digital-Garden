@@ -20,6 +20,8 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 - Maximale bewaartermijnen zijn langer dan dat je de website gebruikt.
 - In de noodzakelijke cookies word je activiteit bijgehouden, opgeslagen en getoond aan andere personen.
 
+
+
 Human Consent Component:
 
 1.
