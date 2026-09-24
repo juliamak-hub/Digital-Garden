@@ -17,7 +17,7 @@ We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cooki
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."- Er is in het cookie scherm geen optie om de cookies af te wijzen.
 - De knop naar instellingen is veel kleiner en minder opvallend.
-- Maximale bewaartermijnen zijn langer als dat je de website gebruikt.
+- Maximale bewaartermijnen zijn langer dan dat je de website gebruikt.
 - In de noodzakelijke cookies word je activiteit bijgehouden, opgeslagen en getoond aan andere personen.
 
   
