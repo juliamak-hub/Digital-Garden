@@ -20,7 +20,35 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 - Maximale bewaartermijnen zijn langer dan dat je de website gebruikt.
 - In de noodzakelijke cookies word je activiteit bijgehouden, opgeslagen en getoond aan andere personen.
 
-  
+Human Consent Component:
+
+1.
+-	GitHub: Verwerkt automatisch IP-adressen en browsergegevens in serverlogs voor beveiliging en netwerkbeheer.
+-	Digitaaltuintje Component: Slaat vaak lokaal gegevens op (bijv. voorkeuren zoals Dark Mode of geopende notities).
+-	Externe diensten: Externe fonts (Google Fonts) verwerken ook bezoekersgegevens.
+
+
+2.
+-	Privacyverklaring: Een korte notitie op je site die helder uitlegt wat er met gegevens gebeurt.
+-	Footer-link: Een vaste link onderaan je pagina naar je privacybeleid.
+
+
+3.
+-	Opt-in Banner: Banner met gelijkwaardige accepteer en weiger knoppen.
+-	Gelaagde Banner: Instellingen per categorie (Noodzakelijk, Analytics, Marketing).
+-	Modal Overlay: Schermvullende pop-up die de pagina blokkeert tot een keuze is gemaakt.
+-	Contextueel: Pas toestemming vragen op het moment dat een gebruiker op een externe video of widget klikt.
+-	Toggle Switches: Schakelaars in een menu (standaard uit).
+-	Formulier Checkbox: Een verplicht (ongevinkt) vakje bij een contactformulier.
+-	Age Gate: Leeftijdsverificatie via een pop-up alvorens data te verwerken.
+-	Voorkeurenmenu in Footer: Een knop waarmee gebruikers hun keuzes altijd kunnen herzien.
+-	Floating Cookie-knop: Een vast icoontje op het scherm om instellingen op te roepen.
+-	Browser Signalen (GPC/DNT): Automatisch toestemming weigeren als de browser een Do Not Track-signaal stuurt.
+
+4.
+Subtiele Footer-link. Korte, transparante privacynotitie of alleen als ze van toepassing zijn. Word alleen laten zien als er externe links aan vast zitten.
+
+
 ### 21 september
 Bron: [Modern Font Stacks](https://modernfontstacks.com/)
 <img width="1118" height="782" alt="Scherm­afbeelding 2026-09-21 om 14 36 22" src="https://github.com/user-attachments/assets/c7c1e87f-8625-460d-af5b-78d9f4b0b7ef" />
