@@ -170,16 +170,14 @@ header {
 header h1 mark {
   font-family: MeieScript;
   background-color: var(--color-yellow);
-  color: var(--color-magenta);
+  color: var(--color-magenta)
 }
 
 header ul {
 grid-area: header;
-display:flex;
 gap: 3em;
 margin: var(--whitespace);
 padding: var(--whitespace);
-
 }
 
 /**************************
