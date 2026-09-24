@@ -42,9 +42,14 @@ Retrospect:
 
 
 Checkout:
+Wat zijn HTML landmark role elements?
+HTML landmark role elementen zijn speciale sectie-elementen die de indeling van een webpagina opdelen in herkenbare, navigeerbare regio's.
 
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+HTML-tags die worden gebruikt om de structuur en hiërarchie van de inhoud van een webpagina te bepalen.
 
-
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Als ik een cookie pop-up zie probeer ik altijd de voorwaarden te weigeren. Als dat niet kan probeer ik alle aanstaande vinkjes uit te zetten of klik ik de website weg. Ik wil namelijk geen website bezoeken waar ik niet zelf mag bepalen wat ik deel.
 
 ### 17 september
 Ik ben niet zo ver gekomen als dat ik zelf had gehoopt. Ik heb een home, login, review & contact pagina gemaakt. Ik heb het lettertype ImperialScript toegevoegd voor een sierlijke en elegante uitstraling. Dit heb ik gekozen, omdat er uit mijn visual research kwam dat lelies een sierlijke en elegante uitstraling hebben. Perfect lettertype dus voor in een website die over lelies gaat.
