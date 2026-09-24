@@ -68,6 +68,7 @@ article:first-of-type img:first-of-type {
 
 a {
   color: var(--accent-color);
+  text-decoration:none;
 }
 
 li {
@@ -154,7 +155,17 @@ label:has([type="checkbox"]) {
 header {
   background: var(--color-cyan);
   grid-area: header;
-  padding: var(--whitespace);
+  padding: var(--whitespace-xs);
+  display:flex;
+  justify-content: space-between;
+}
+
+header ul {
+grid-area: header;
+display:flex;
+gap: 1.5em;
+margin: var(--whitespace);
+padding: var(--whitespace);
 }
 
 /**************************
