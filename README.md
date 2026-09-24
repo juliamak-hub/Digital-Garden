@@ -7,8 +7,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 23 september
 Bron: [Gina Tricot](https://www.ginatricot.com/nl?utm_source=google&utm_medium=cpc&utm_campaign=nl-search-pure-brand&utm_content=Brand&utm_ad=661416503218&utm_term=gina%20tricot&matchtype=e&device=c&GeoLoc=9197724&placement=&network=g&campaign_id=20254584237&adset_id=150451357335&ad_id=661416503218&gad_source=1&gad_campaignid=20254584237&gbraid=0AAAAADpllJFevbi5qQvYbXr_yAE32TW1-&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ93aFu3qmxs1wkQFdBbZNWHU4hf4omlyr1cOOC7sGkP5gFmaB2vPZ8oaAoV9EALw_wcB)
-2:
-- Er is in het cookie scherm geen optie om de cookies af te wijzen.
+
+
+1. <img width="350" height="550" alt="Scherm­afbeelding 2026-09-24 om 12 26 31" src="https://github.com/user-attachments/assets/ddad5939-10cc-4801-b13c-d8a4b033d9fe" />
+
+2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
+
+We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
+
+Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."- Er is in het cookie scherm geen optie om de cookies af te wijzen.
 - De knop naar instellingen is veel kleiner en minder opvallend.
 - Maximale bewaartermijnen zijn langer als dat je de website gebruikt.
 - In de noodzakelijke cookies word je activiteit bijgehouden, opgeslagen en getoond aan andere personen.
