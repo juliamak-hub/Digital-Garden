@@ -9,7 +9,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Bron: [Gina Tricot](https://www.ginatricot.com/nl?utm_source=google&utm_medium=cpc&utm_campaign=nl-search-pure-brand&utm_content=Brand&utm_ad=661416503218&utm_term=gina%20tricot&matchtype=e&device=c&GeoLoc=9197724&placement=&network=g&campaign_id=20254584237&adset_id=150451357335&ad_id=661416503218&gad_source=1&gad_campaignid=20254584237&gbraid=0AAAAADpllJFevbi5qQvYbXr_yAE32TW1-&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ93aFu3qmxs1wkQFdBbZNWHU4hf4omlyr1cOOC7sGkP5gFmaB2vPZ8oaAoV9EALw_wcB)
 
 
-1. <img width="370" height="500" alt="Scherm­afbeelding 2026-09-24 om 12 26 31" src="https://github.com/user-attachments/assets/ddad5939-10cc-4801-b13c-d8a4b033d9fe" />
+1. <img width="600" height="550" alt="Scherm­afbeelding 2026-09-24 om 12 26 31" src="https://github.com/user-attachments/assets/ddad5939-10cc-4801-b13c-d8a4b033d9fe" />
 
 2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
 
