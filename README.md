@@ -51,6 +51,9 @@ Human Consent Component:
 Subtiele Footer-link. Korte, transparante privacynotitie of alleen als ze van toepassing zijn. Word alleen laten zien als er externe links aan vast zitten.
 
 
+<img width="1000" height="600" alt="Scherm­afbeelding 2026-09-25 om 09 07 16" src="https://github.com/user-attachments/assets/f397b613-0c2d-410f-8908-128fb7141bd3" />
+
+
 ### 21 september
 Bron: [Modern Font Stacks](https://modernfontstacks.com/)
 <img width="1118" height="782" alt="Scherm­afbeelding 2026-09-21 om 14 36 22" src="https://github.com/user-attachments/assets/c7c1e87f-8625-460d-af5b-78d9f4b0b7ef" />
