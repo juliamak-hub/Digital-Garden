@@ -11,6 +11,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 <img width="193" height="155" alt="Scherm­afbeelding 2026-09-25 om 09 18 57" src="https://github.com/user-attachments/assets/86d7c6c3-ad9e-4a28-869e-94857904c329" />
 <img width="750" height="400" alt="Scherm­afbeelding 2026-09-25 om 09 19 15" src="https://github.com/user-attachments/assets/5deb77ae-b944-4f9b-b4d3-b70135344bc3" />
 
+Checkout:
+We hebben geleerd wat niet gebruikersvriendelijke pop-ups zijn. We hebben geleerd wat er in een cookie pop-up moet zitten en de consequenties er van als je dat niet heb. We hebben nog meer geleerd over buttons in de deep dive. Ik heb geleerd van een mede student hoe ik bewegende gradients in mijn website kan toevoegen. Ik wil graag de weetjes van mijn website uitbreiden en mijn cookie pop-up button bijwerken.
 
 ### 23 september
 Bron: [Gina Tricot](https://www.ginatricot.com/nl?utm_source=google&utm_medium=cpc&utm_campaign=nl-search-pure-brand&utm_content=Brand&utm_ad=661416503218&utm_term=gina%20tricot&matchtype=e&device=c&GeoLoc=9197724&placement=&network=g&campaign_id=20254584237&adset_id=150451357335&ad_id=661416503218&gad_source=1&gad_campaignid=20254584237&gbraid=0AAAAADpllJFevbi5qQvYbXr_yAE32TW1-&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ93aFu3qmxs1wkQFdBbZNWHU4hf4omlyr1cOOC7sGkP5gFmaB2vPZ8oaAoV9EALw_wcB)
