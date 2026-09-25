@@ -101,6 +101,7 @@ body {
       "header header header"
       "main main main"
       "footer footer footer";
+
   }
 }
 
@@ -188,26 +189,6 @@ footer {
   background: var(--color-yellow);
   grid-area: footer;
   padding: var(--whitespace);
-
-  nav {
-    h2 {
-      position: absolute;
-      left: -9999999em;
-    }
-    ul {
-      &::before {
-        content: "🌳" / "De Digital Garden Webring";
-      }
-      &::after {
-        content: "<--" / "";
-      }
-
-      padding: 0;
-      display: flex;
-      gap: var(--whitespace-xs);
-
-    }
-  }
 }
 
 /**************************
