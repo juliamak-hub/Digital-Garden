@@ -60,6 +60,15 @@ Subtiele Footer-link. Korte, transparante privacynotitie of alleen als ze van to
 
 <img width="1000" height="600" alt="Scherm­afbeelding 2026-09-25 om 09 07 16" src="https://github.com/user-attachments/assets/f397b613-0c2d-410f-8908-128fb7141bd3" />
 
+Checkout: 
+Wat is een wireflow en wat heb je er aan?
+Een ontwerptool die wireframes combineert met flowcharts. 
+
+Wat zijn dark UX patterns? Geef drie voorbeelden...
+Bewuste ontwerptrucs die gebruikers manipuleren om acties te verrichten die ze eigenlijk niet willen. Zoals een neppe aftelklok, preselection en Het besluit van een gebruiker om iets niet te doen word afgestraft.
+
+Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+De keuzevrijheid van de gebruiker moet centraal staan. Dit kan je doen met bijvoorbeeld gelijkwaardige knoppen, knoppen vooraf uit gevinkt en de taal moet begrijpelijk zijn. 
 
 ### 21 september
 Bron: [Modern Font Stacks](https://modernfontstacks.com/)
