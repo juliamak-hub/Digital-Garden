@@ -16,6 +16,15 @@
   font-style: normal;
 }
 
+@keyframes move{
+  from {
+    background-position: 0%;
+  }
+  to {
+    background-position: 100% 100%;
+  }
+}
+
 /**************************
 * MARK: Custom properties
 **************************/
@@ -29,6 +38,11 @@ html {
   --color-dark: #EDE6D8;
   --color-light: #333333;
   --color-BO: light-dark(#EDE6D8,#19281f);
+  --color-gradients: light-dark(#8FA882, #1C3B2B);
+  --color-gradients2: light-dark(#B8D8A3,#3A5A40);
+  --color-gradients3: light-dark(#F8E88B, #588157);
+  --color-gradients4: light-dark(#F4C430, #C29B38);
+  --button-cookies: light-dark(#D3D3D3);
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
   --color-text: light-dark(var(--color-light),var(--color-dark));
@@ -86,7 +100,6 @@ li {
 body {
   font-family:
     "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052, serif;
-  background: var(--color-background);
   color: var(--color-text);
 
   display: grid;
@@ -186,11 +199,26 @@ padding: var(--whitespace);
 **************************/
 
 footer {
-  background: var(--color-yellow);
+    background: radial-gradient(
+    var(--color-gradients),
+    var(--color-gradients2),
+    var(--color-gradients3),
+    var(--color-gradients4)
+  );
+  min-height: 20vh;
+  background-size: 300% 400%;
+  animation: move 10s alternate infinite;
   grid-area: footer;
   padding: var(--whitespace);
 }
 
+footer button{
+  background-color: var(--button-cookies);
+  backdrop-filter: blur(8px);
+  color: rgb(24, 24, 48);
+  font-size: var(--step-1);
+  border-radius: 0.3em;
+}
 /**************************
 * MARK: Main
 **************************/
