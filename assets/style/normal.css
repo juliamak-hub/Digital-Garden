@@ -38,10 +38,10 @@ html {
   --color-dark: #EDE6D8;
   --color-light: #333333;
   --color-BO: light-dark(#EDE6D8,#19281f);
-  --color-gradients: light-dark(#8FA882, #1C3B2B);
-  --color-gradients2: light-dark(#B8D8A3,#3A5A40);
-  --color-gradients3: light-dark(#F8E88B, #588157);
-  --color-gradients4: light-dark(#F4C430, #C29B38);
+  --color-gradients: light-dark(#8FA882, #4b7e64);
+  --color-gradients2: light-dark(#B8D8A3,#79ab82);
+  --color-gradients3: light-dark(#F8E88B, #3e6f62);
+  --color-gradients4: light-dark(#F4C430, #9fbfa2);
   --button-cookies: light-dark(#D3D3D3);
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
@@ -215,7 +215,7 @@ footer {
 footer button{
   background-color: var(--button-cookies);
   backdrop-filter: blur(8px);
-  color: rgb(24, 24, 48);
+  color: darkblue;
   font-size: var(--step-1);
   border-radius: 0.3em;
 }
