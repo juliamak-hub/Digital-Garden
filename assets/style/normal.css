@@ -54,6 +54,7 @@ html {
   --color-gradients3: light-dark(#649f74, #3e6f4c);
   --color-gradients4: light-dark(#bfddc2, #bfddc2);
   --button-cookies: light-dark(#D3D3D3);
+  --button-fade: light-dark(#66a273,#EDE6D8);
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
   --color-text: light-dark(var(--color-light),var(--color-dark));
@@ -234,10 +235,10 @@ footer button{
 
 footer button::after {
   content: "";
-  color: var(--color-text);
+  color: var(--button-fade);
   position: absolute;
   inset: -3px;
-  border: 2px solid var(--color-text);
+  border: 2px solid var(--button-fade);
   border-radius: 0.3em;
   animation: ring 1.5s infinite;
 }
