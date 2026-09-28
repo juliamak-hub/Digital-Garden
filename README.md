@@ -6,8 +6,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 28 september
-<img width="577" height="789" alt="Scherm­afbeelding 2026-09-28 om 12 06 10" src="https://github.com/user-attachments/assets/b5313766-2cb4-4cf7-8e80-4cf6b49d2952" />
-<img width="574" height="780" alt="Scherm­afbeelding 2026-09-28 om 12 05 51" src="https://github.com/user-attachments/assets/350e9372-e71b-41c2-bded-b1333db3db16" />
+<img width="577" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 06 10" src="https://github.com/user-attachments/assets/b5313766-2cb4-4cf7-8e80-4cf6b49d2952" />
+<img width="574" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 05 51" src="https://github.com/user-attachments/assets/350e9372-e71b-41c2-bded-b1333db3db16" />
 
 
 ### 25 september
