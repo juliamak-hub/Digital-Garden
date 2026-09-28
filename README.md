@@ -22,7 +22,12 @@ Waarom deze button gebruikersvriendelijk is. De externe diensten zijn op de eers
 NS app zonder toetsenbord:
 <img width="588" height="797" alt="Scherm­afbeelding 2026-09-28 om 14 42 01" src="https://github.com/user-attachments/assets/d76c8132-dfaa-44ed-8c3a-ecf54b7f5597" />
 
+checkout:
+1. Hij vindt het minder interessant om bezig te zijn met de technische structuur van html en leuker om bezig te zijn met hoe de gebruiker de website ervaart. 
 
+2. motorisch, visueel, cognitief, auditief.
+
+3. command + F5 is voice over functie, control + option + U is open lijst met heading, Pijltje omhoog of omlaag is wisselen tussen lijst, enter is kies tab, control + option + shift + pijloplaag is tabben door website heen en control + option + command + ← → is selecteer een categorie in de rotor.
 
 
 ### 25 september
