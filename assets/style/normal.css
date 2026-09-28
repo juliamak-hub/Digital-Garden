@@ -149,6 +149,7 @@ textarea {
 h1 {
   font-size: var(--step-3);
   color: var(--color-BO);
+  margin-left: 1em;
 }
 
 h2 {
