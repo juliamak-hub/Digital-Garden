@@ -225,11 +225,11 @@ footer {
 
 footer button{
   background-color: var(--button-cookies);
-  backdrop-filter: blur(8px);
   color: var(--color-text);
   font-size: var(--step-1);
   border-radius: 0.3em;
   position: relative;
+  border: none;
 }
 
 footer button::after {
