@@ -27,7 +27,7 @@ Animatie toegevoegd aan mijn Allow cookies button:
 
 
 <img width="345" height="120" alt="Scherm­afbeelding 2026-09-28 om 20 26 03" src="https://github.com/user-attachments/assets/03d3616f-97ae-4df7-910c-8c3da3ab87ed" />
-<img width="445" height="191" alt="Scherm­afbeelding 2026-09-28 om 20 26 08" src="https://github.com/user-attachments/assets/a7d20ef9-c5b7-4aa2-a01d-69701f211bb9" />
+<img width="345" height="120" alt="Scherm­afbeelding 2026-09-28 om 20 26 08" src="https://github.com/user-attachments/assets/a7d20ef9-c5b7-4aa2-a01d-69701f211bb9" />
 
 
 checkout:
