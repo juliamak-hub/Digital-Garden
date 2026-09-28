@@ -11,6 +11,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 <img width="193" height="155" alt="Scherm­afbeelding 2026-09-25 om 09 18 57" src="https://github.com/user-attachments/assets/86d7c6c3-ad9e-4a28-869e-94857904c329" />
 <img width="750" height="400" alt="Scherm­afbeelding 2026-09-25 om 09 19 15" src="https://github.com/user-attachments/assets/5deb77ae-b944-4f9b-b4d3-b70135344bc3" />
 
+Ik heb gradients met light en dark mode toegevoegd aan mijn website:
+<img width="1501" height="244" alt="Scherm­afbeelding 2026-09-28 om 11 26 53" src="https://github.com/user-attachments/assets/5d855279-cac6-42f2-ae64-74a5a8dad31b" />
+<img width="1502" height="234" alt="Scherm­afbeelding 2026-09-28 om 11 26 32" src="https://github.com/user-attachments/assets/a564caec-73ed-48f5-9ba5-5cea101800d2" />
+
 Checkout:
 We hebben geleerd wat niet gebruikersvriendelijke pop-ups zijn. We hebben geleerd wat er in een cookie pop-up moet zitten en de consequenties er van als je dat niet heb. We hebben nog meer geleerd over buttons in de deep dive. Ik heb geleerd van een mede student hoe ik bewegende gradients in mijn website kan toevoegen. Ik wil graag de weetjes van mijn website uitbreiden en mijn cookie pop-up button bijwerken.
 
