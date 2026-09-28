@@ -19,6 +19,10 @@ Waarom deze button gebruikersvriendelijk is. De externe diensten zijn op de eers
 
 <img width="598" height="477" alt="Scherm­afbeelding 2026-09-28 om 13 27 32" src="https://github.com/user-attachments/assets/5465af29-4166-4bd8-af94-f71ee853a0a8" />
 
+NS app zonder toetsenbord:
+<img width="588" height="797" alt="Scherm­afbeelding 2026-09-28 om 14 42 01" src="https://github.com/user-attachments/assets/d76c8132-dfaa-44ed-8c3a-ecf54b7f5597" />
+
+
 
 
 ### 25 september
