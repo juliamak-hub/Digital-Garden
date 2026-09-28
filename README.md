@@ -9,6 +9,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 <img width="777" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 06 10" src="https://github.com/user-attachments/assets/b5313766-2cb4-4cf7-8e80-4cf6b49d2952" />
 <img width="774" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 05 51" src="https://github.com/user-attachments/assets/350e9372-e71b-41c2-bded-b1333db3db16" />
 
+Mijn design voor een cookie pop-up button:
+<img width="800" height="500" alt="Scherm­afbeelding 2026-09-28 om 13 29 02" src="https://github.com/user-attachments/assets/8165a67a-e77e-4329-abdc-e9f36db82fdf" />
+
+Mijn basis uitwerking in Figma:
+<img width="598" height="477" alt="Scherm­afbeelding 2026-09-28 om 13 27 32" src="https://github.com/user-attachments/assets/5465af29-4166-4bd8-af94-f71ee853a0a8" />
+
+
 
 ### 25 september
 <img width="750" height="400" alt="Scherm­afbeelding 2026-09-25 om 09 18 32" src="https://github.com/user-attachments/assets/73189269-fb02-4906-bc66-f98cea6a848d" />
