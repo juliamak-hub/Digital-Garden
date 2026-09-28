@@ -12,7 +12,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Mijn design voor een cookie pop-up button:
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-28 om 13 29 02" src="https://github.com/user-attachments/assets/8165a67a-e77e-4329-abdc-e9f36db82fdf" />
 
+
 Mijn basis uitwerking in Figma:
+Waarom deze button gebruikersvriendelijk is. De externe diensten zijn op de eerste pagina's getoond. De gebruiker hoeft niet ver opzoek naar deze informatie. De weiger en akkoord button hebben hetzelfde ontwerp. Er word getoond waarom de platformen in de website zitten. 
+
+
 <img width="598" height="477" alt="Scherm­afbeelding 2026-09-28 om 13 27 32" src="https://github.com/user-attachments/assets/5465af29-4166-4bd8-af94-f71ee853a0a8" />
 
 
