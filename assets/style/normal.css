@@ -258,9 +258,11 @@ footer button::after {
 
 input:user-valid {
   border: 2px solid rgba(0, 128, 0, 0.562);
+  background: lightgreen;
 }
 input:user-invalid {
   border: 2px solid rgba(255, 0, 0, 0.559);
+  background: lightcoral;
 }
 
 
