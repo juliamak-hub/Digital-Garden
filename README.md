@@ -5,6 +5,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 29 september
+Ik ben bezig geweest met mijn login pagina. Als de gebruiker niks invult, niet akkoord gaat met de voorwaarden en een foutieve naam en/of een verkeerde e-mail invult kan de inhoud niet verstuurd worden. Bron: [S2 meer interactie met HTML en CSS](https://codepen.io/editor/vasilisvg/pen/01a0e40e-186c-72e6-b05c-c76e14c35206)
+
+
+<img width="856" height="303" alt="Scherm­afbeelding 2026-09-29 om 20 45 17" src="https://github.com/user-attachments/assets/948ce82f-842e-4248-a470-2f4f1dbd5ac4" />
+<img width="841" height="308" alt="Scherm­afbeelding 2026-09-29 om 20 52 46" src="https://github.com/user-attachments/assets/da64c9a1-91f8-478e-9452-8fd816f42fac" />
+<img width="870" height="321" alt="Scherm­afbeelding 2026-09-29 om 20 44 55" src="https://github.com/user-attachments/assets/7ae10851-4582-4e51-b04f-00712eeae0c4" />
+
+
 ### 28 september
 <img width="777" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 06 10" src="https://github.com/user-attachments/assets/b5313766-2cb4-4cf7-8e80-4cf6b49d2952" />
 <img width="774" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 05 51" src="https://github.com/user-attachments/assets/350e9372-e71b-41c2-bded-b1333db3db16" />
