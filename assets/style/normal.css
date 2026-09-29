@@ -252,7 +252,12 @@ footer button::after {
  border-radius: 1em;
 }
 
-
+input:user-valid {
+  border: 2px solid rgba(0, 128, 0, 0.562);
+}
+input:user-invalid {
+  border: 2px solid rgba(255, 0, 0, 0.559);
+}
 
 
 
