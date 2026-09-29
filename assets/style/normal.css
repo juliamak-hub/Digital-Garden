@@ -232,6 +232,7 @@ footer button{
   border-radius: 0.3em;
   position: relative;
   border: none;
+  margin-left: 4em;
 }
 
 footer button::after {
@@ -244,9 +245,14 @@ footer button::after {
   animation: ring 1.5s infinite;
 }
 
-footer dialog form {
-  background-color: hotpink;
+#cookieModal {
+ background-color: var(--color-cyan);
+ color: var(--color-dark);
+ max-width: 40em;
+ border-radius: 1em;
 }
+
+
 
 
 
