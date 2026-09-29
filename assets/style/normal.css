@@ -177,6 +177,10 @@ label {
   display: grid;
 }
 
+form {
+  max-width: 50em;
+}
+
 label:has([type="checkbox"]) {
   display: flex;
   align-items: baseline;
