@@ -11,6 +11,13 @@ WCAG checklist;
 
 Bron: [Lelie IMG Dutch-Bulbs
 ](https://blog.dutch-bulbs.com/nl/top-10-oosterse-leliesoorten-de-best-geurende-lelies-voor-uw-tuin/)
+
+
+checkout:
+1. Web Content Accessibility Guidelines is een geaccepteerde standaard voor de toegankelijkheid van websites die gebruikt wordt door organisaties, bedrijven en overheden.
+2. Ik vind het moeilijker met een screenreader de website te bedienen, omdat je best moet zoeken tussen tabs en als je het niet kan vinden kan je niet naar het scherm kijken om te zien waar je heen moet.
+3. Ik vind slecht zicht lastig om rekening mee te houden. De enige tool die je hebt ik je gehoor en je toetsenbord, daarin tegen vind ik contrast minder lastig om rekening mee te houden.
+   
 ### 29 september
 Ik ben bezig geweest met mijn login pagina. Als de gebruiker niks invult, niet akkoord gaat met de voorwaarden en een foutieve naam en/of een verkeerde e-mail invult kan de inhoud niet verstuurd worden. Bron: [S2 meer interactie met HTML en CSS](https://codepen.io/editor/vasilisvg/pen/01a0e40e-186c-72e6-b05c-c76e14c35206)
 
