@@ -233,9 +233,6 @@ footer {
 }
 
 footer button{
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: var(--button-cookies);
   color: var(--color-text);
   font-size: var(--step-1);
