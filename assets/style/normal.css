@@ -222,6 +222,9 @@ footer {
     var(--color-gradients3),
     var(--color-gradients4)
   );
+  display: flex;
+  justify-content: center;
+  align-items: center;
   min-height: 20vh;
   background-size: 300% 400%;
   animation: move 10s alternate infinite;
@@ -230,6 +233,9 @@ footer {
 }
 
 footer button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: var(--button-cookies);
   color: var(--color-text);
   font-size: var(--step-1);
