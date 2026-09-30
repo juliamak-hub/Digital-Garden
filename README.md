@@ -9,6 +9,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 WCAG checklist;
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-30 om 10 16 02" src="https://github.com/user-attachments/assets/7a62a126-7022-4671-bc0b-f923e16926bb" />
 
+Bron: [Lelie IMG Dutch-Bulbs
+](https://blog.dutch-bulbs.com/nl/top-10-oosterse-leliesoorten-de-best-geurende-lelies-voor-uw-tuin/)
 ### 29 september
 Ik ben bezig geweest met mijn login pagina. Als de gebruiker niks invult, niet akkoord gaat met de voorwaarden en een foutieve naam en/of een verkeerde e-mail invult kan de inhoud niet verstuurd worden. Bron: [S2 meer interactie met HTML en CSS](https://codepen.io/editor/vasilisvg/pen/01a0e40e-186c-72e6-b05c-c76e14c35206)
 
