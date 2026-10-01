@@ -205,20 +205,20 @@ label:has([type="checkbox"]) {
 
 header {
   background: var(--color-cyan);
-  grid-area: "header";
+  grid-area: header;
   padding: var(--whitespace-xs);
   display:flex;
   justify-content: space-between;
 }
 
 header h1 mark {
-  font-family: "MeieScript";
+  font-family: MeieScript;
   background-color: var(--color-yellow);
   color: var(--color-magenta)
 }
 
 header ul {
-grid-area: "header";
+grid-area: header;
 gap: 3em;
 margin: var(--whitespace);
 padding: var(--whitespace);
