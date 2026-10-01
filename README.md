@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### 1 oktober
 <img width="698" height="604" alt="Scherm­afbeelding 2026-10-01 om 16 02 08" src="https://github.com/user-attachments/assets/5b6465b3-48f6-4128-8acf-717b0834037f" />
-<img width="1487" height="604" alt="Scherm­afbeelding 2026-10-01 om 16 01 57" src="https://github.com/user-attachments/assets/c2f0b0ad-5dd9-493d-b5d7-9d1cdaa61504" />
+<img width="1000" height="250" alt="Scherm­afbeelding 2026-10-01 om 16 01 57" src="https://github.com/user-attachments/assets/c2f0b0ad-5dd9-493d-b5d7-9d1cdaa61504" />
 
 Img bronnen:
 Bron:[Oranje lelie
@@ -14,11 +14,15 @@ Bron:[Oranje lelie
 Ik heb het design van mijn cookie button af gemaakt. Daarnaast heb ik afbeeldingen van lelies toegevoegd aan mijn website.
 Bron:[Lelie lichtroze Pinterest
 ](https://nl.pinterest.com/pin/747667975687272743/)
-<img width="1506" height="908" alt="Scherm­afbeelding 2026-09-30 om 10 43 01" src="https://github.com/user-attachments/assets/cb75d979-778f-482e-8247-c7eac2c43fe0" />
+
 Bron:[Lelie roze Pinterest
 ](https://nl.pinterest.com/pin/747667975687272758/)
 Bron:[Lelie oranje Pinterest
-](https://nl.pinterest.com/pin/747667975687272759/)Met de extentie colorblindly heb ik getest of mijn website leesbaar is voor iedereen die geen of weinig kleur kan waarnemen.
+](https://nl.pinterest.com/pin/747667975687272759/)
+
+
+<img width="1000" height="500" alt="Scherm­afbeelding 2026-09-30 om 10 43 01" src="https://github.com/user-attachments/assets/cb75d979-778f-482e-8247-c7eac2c43fe0" />
+Met de extentie colorblindly heb ik getest of mijn website leesbaar is voor iedereen die geen of weinig kleur kan waarnemen.
 
 
 ### 30 september
