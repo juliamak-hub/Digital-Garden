@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### 1 oktober
 <img width="698" height="604" alt="Scherm­afbeelding 2026-10-01 om 16 02 08" src="https://github.com/user-attachments/assets/5b6465b3-48f6-4128-8acf-717b0834037f" />
-<img width="1300" height="400" alt="Scherm­afbeelding 2026-10-01 om 16 01 57" src="https://github.com/user-attachments/assets/c2f0b0ad-5dd9-493d-b5d7-9d1cdaa61504" />
+<img width="1300" height="800" alt="Scherm­afbeelding 2026-10-01 om 16 01 57" src="https://github.com/user-attachments/assets/c2f0b0ad-5dd9-493d-b5d7-9d1cdaa61504" />
 Ik heb het design van mijn cookie button af gemaakt. Daarnaast heb ik afbeeldingen van lelies toegevoegd aan mijn website.
 
 
