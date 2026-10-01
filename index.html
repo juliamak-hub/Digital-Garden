@@ -31,12 +31,13 @@
 
     <main>
       <article>
+        <img src="./assets/IMG/profieldonker.png" alt="vrouw-blond-haar" />
         <h2>Over mij</h2>
 
         <p>
           Hoi ik ben Julia! Ik ben een student bij de opleiding CMD in Amsterdam. Mijn familie heeft bijna 60 jaar ervaring in de veredeling &
           ontwikkeling van hybride lelies. Ik wist hier weinig van en heb mij hierin verdiept. </p>
-          <img src="./assets/IMG/profieldonker.png" alt="vrouw-blond-haar" />
+          
       </article>
 
         
@@ -62,34 +63,52 @@
       </article>
 
       <article>
+        
         <h2>Wist je dat?</h2>
 
         <p>
           Sommige lelies geen geur hebben, maar dat hun bloemen tóch speciaal gevormd zijn om nachtvlinders aan te trekken?
-        </p>
+        </p><link><img src="./assets/IMG/LWG.png" alt="Lelie Wit-Geel" /></link>
       </article>
+
     </main>
+  
 
     <footer>
-      <nav>
-        <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
-        </button>
-      </nav>
+      <button commandfor="cookieModal" command="show-modal">
+        <span>cookies toestaan?</span>
+      </button>
     </footer>
 
     <dialog id="cookieModal">
       <form method="dialog">
-        <p>
-          We use cookies to personalise content and ads, to provide social media
-          features and to analyse our traffic. We also share information about
-          your use of our site with our social media, advertising and analytics
-          partners who may combine it with other information that you’ve
-          provided to them or that they’ve collected from your use of their
-          services.
-        </p>
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
+        <section>
+        <h3>Deze website maakt gebruik van cookies</h3>
+        <p>Voor een optimale werking en volledige traspiratie bied ik u inzicht in de opbouw van de website en de verwerking van gegevens.</p>
+        </section>
+
+        
+        <section>
+          <p>
+            <strong>Digitaaltuintje.nl:</strong> Intergratie die deze website verbindt met het netwerk van digitale tuinen om inhoud en updates onderling uit te wisselen.</p>
+        </section>
+
+        <section>
+          <p>
+            <strong>Google fonts:</strong> Externe dienst van Google voor het inladen van de typografie op deze website om een correcte en prettige leeservaring te bieden.
+          </p>
+        </section>
+
+        <section>
+          <p>
+            <strong>Github pages:</strong> Hostingprovider die de website serveert. Bij het opvragen van pagina's verwerkt de server technische gegevens zoals IP-adressen in serverlogs ter beveiliging.
+          </p>
+        </section>
+
+
+        
+        <button onclick="setCookie()">Accepteren & sluiten</button>
+        <button onclick="unsetCookie()">Cookies afwijzen</button>
       </form>
     </dialog>
   </body>
