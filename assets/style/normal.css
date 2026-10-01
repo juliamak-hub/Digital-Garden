@@ -94,7 +94,6 @@ video {
 }
 
 article:first-of-type img:first-of-type {
-  margin: var(--whitespace-xs);
   border-radius: 4em;
   max-width: 17em;
 }
