@@ -6,6 +6,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 2 oktober
+Mijn website design nu:
+
+<img width="1493" height="853" alt="Scherm­afbeelding 2026-10-02 om 12 31 34" src="https://github.com/user-attachments/assets/bdc94607-b9e1-4651-959e-72516cccaaeb" />
+<img width="1489" height="766" alt="Scherm­afbeelding 2026-10-02 om 12 31 50" src="https://github.com/user-attachments/assets/57556dd6-ce81-4ccc-a371-a942fde0d507" />
+
+
 hoofdinhoud button:
 Met hover <img width="270" height="65" alt="Scherm­afbeelding 2026-10-02 om 11 58 30" src="https://github.com/user-attachments/assets/dac543e5-eb12-4ae5-9c7e-fb163c943f57" />
 <img width="219" height="64" alt="Scherm­afbeelding 2026-10-02 om 11 58 23" src="https://github.com/user-attachments/assets/0053dbf9-9abd-45c7-9144-126321420f72" />
