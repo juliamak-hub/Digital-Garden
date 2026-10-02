@@ -4,6 +4,12 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+
+### 2 oktober
+hoofdinhoud button:
+Met hover <img width="270" height="65" alt="Scherm­afbeelding 2026-10-02 om 11 58 30" src="https://github.com/user-attachments/assets/dac543e5-eb12-4ae5-9c7e-fb163c943f57" />
+<img width="219" height="64" alt="Scherm­afbeelding 2026-10-02 om 11 58 23" src="https://github.com/user-attachments/assets/0053dbf9-9abd-45c7-9144-126321420f72" />
+
 ### 1 oktober
 <img width="698" height="604" alt="Scherm­afbeelding 2026-10-01 om 16 02 08" src="https://github.com/user-attachments/assets/5b6465b3-48f6-4128-8acf-717b0834037f" />
 <img width="1300" height="560" alt="Scherm­afbeelding 2026-10-01 om 16 01 57" src="https://github.com/user-attachments/assets/c2f0b0ad-5dd9-493d-b5d7-9d1cdaa61504" />
