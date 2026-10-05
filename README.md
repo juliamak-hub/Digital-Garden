@@ -5,6 +5,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 3 oktober
+<img width="617" height="805" alt="Scherm­afbeelding 2026-10-05 om 11 13 48" src="https://github.com/user-attachments/assets/e0efe441-3eb8-474e-97a7-c3d3110d338e" />
+<img width="620" height="797" alt="Scherm­afbeelding 2026-10-05 om 11 13 58" src="https://github.com/user-attachments/assets/9a109f6b-5eae-4ea9-a36b-52845a0578e1" />
+<img width="1459" height="761" alt="Scherm­afbeelding 2026-10-05 om 11 14 09" src="https://github.com/user-attachments/assets/52c25c90-e028-483b-a40a-d3b00d1d41ff" />
+<img width="1103" height="793" alt="Scherm­afbeelding 2026-10-05 om 11 14 23" src="https://github.com/user-attachments/assets/577ba590-3e68-4eaa-84f9-b4d035d233fa" />
+
+
 ### 2 oktober
 Mijn website design nu:
 
