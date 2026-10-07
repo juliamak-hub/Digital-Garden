@@ -6,6 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 7 oktober
+Bron:[Transition tools](https://www.toptal.com/developers/css3maker/css3-transform)
 Bron: [CSS en HTML tools](https://webcode.tools/css-generator/word-spacing/)
 ### 5 oktober
 Ik moest met mijn tafel Modulair scale and meaningful typography
