@@ -8,6 +8,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 5 oktober
 Ik moest met mijn tafel Modulair scale and meaningful typography
 <img width="555" height="791" alt="Scherm­afbeelding 2026-10-07 om 08 53 15" src="https://github.com/user-attachments/assets/c4768560-d735-4dfb-a048-8fa06db442b0" />
+
+Schetsen voor songtekst van Intergalactic Beastie Boys:
 <img width="913" height="726" alt="Scherm­afbeelding 2026-10-07 om 08 53 24" src="https://github.com/user-attachments/assets/d3ad4c35-2a4b-46e0-820f-5a9b81fa7d5e" />
 <img width="984" height="795" alt="Scherm­afbeelding 2026-10-07 om 08 53 33" src="https://github.com/user-attachments/assets/d9cc94d7-5fc4-465b-9eb8-8b1b06e8f63f" />
 <img width="1305" height="569" alt="Scherm­afbeelding 2026-10-07 om 08 53 41" src="https://github.com/user-attachments/assets/50ed1a19-5c30-40e3-b489-3b9640a521d9" />
