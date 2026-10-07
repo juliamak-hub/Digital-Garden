@@ -5,6 +5,26 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 5 oktober
+Ik moest met mijn tafel Modulair scale and meaningful typography
+<img width="555" height="791" alt="Scherm­afbeelding 2026-10-07 om 08 53 15" src="https://github.com/user-attachments/assets/c4768560-d735-4dfb-a048-8fa06db442b0" />
+<img width="913" height="726" alt="Scherm­afbeelding 2026-10-07 om 08 53 24" src="https://github.com/user-attachments/assets/d3ad4c35-2a4b-46e0-820f-5a9b81fa7d5e" />
+<img width="984" height="795" alt="Scherm­afbeelding 2026-10-07 om 08 53 33" src="https://github.com/user-attachments/assets/d9cc94d7-5fc4-465b-9eb8-8b1b06e8f63f" />
+<img width="1305" height="569" alt="Scherm­afbeelding 2026-10-07 om 08 53 41" src="https://github.com/user-attachments/assets/50ed1a19-5c30-40e3-b489-3b9640a521d9" />
+
+
+
+
+
+Checkout:
+1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben):
+Deze termen zijn typografische ontwerp termen die te maken hebben met afstand en uitlijning van de tekst, lay-out en historie, compositie en beeldtaal.
+
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+De aangeraden ideale regellengte door typografen is 66 tekens. Als je namelijk te veel of te weinig tekens op een regel hoe comfortabel iemand een tekst leest.
+
+3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Ik zou kiezen voor grootte als ik maar 1 variabele tot mijn beschikking had om hiërarchie aan te brengen. Dit lijkt mij het meest belangrijke variabele om te hebben voor de structuur van de tekst, zoals wat het meest belangrijke is om te lezen of wat meteen je aandacht zou moeten trekken en wat daarna.
 ### 3 oktober
 <img width="617" height="805" alt="Scherm­afbeelding 2026-10-05 om 11 13 48" src="https://github.com/user-attachments/assets/e0efe441-3eb8-474e-97a7-c3d3110d338e" />
 <img width="620" height="797" alt="Scherm­afbeelding 2026-10-05 om 11 13 58" src="https://github.com/user-attachments/assets/9a109f6b-5eae-4ea9-a36b-52845a0578e1" />
