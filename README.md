@@ -5,6 +5,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 7 oktober
+Bron: [CSS en HTML tools](https://webcode.tools/css-generator/word-spacing/)
 ### 5 oktober
 Ik moest met mijn tafel Modulair scale and meaningful typography
 <img width="555" height="791" alt="Scherm­afbeelding 2026-10-07 om 08 53 15" src="https://github.com/user-attachments/assets/c4768560-d735-4dfb-a048-8fa06db442b0" />
