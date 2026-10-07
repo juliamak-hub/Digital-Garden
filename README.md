@@ -10,6 +10,16 @@ Bron:[Transition tools](https://www.toptal.com/developers/css3maker/css3-transfo
 Bron: [CSS en HTML tools](https://webcode.tools/css-generator/word-spacing/)
 Bron: [Wakamaifondue.com](https://wakamaifondue.com)
 
+checkout: 
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+Het zorgt voor snelheid en consistentie bij het plaatsen van elementen. Het zorgt voor overzicht en rust voor de bezoeker, waardoor de pagina makkelijker te lezen is. 
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+1. Visuele hiërarchie: Maak belangrijke dingen groter/ opvallender.
+2. Witruimte: Geef elementen ademruimte.
+3. Beperking: Gebruik een maximaal aantal lettertypes, groottes en stylen.
+Hoeveel gekkigheid moet er in je werk zitten?
+
+
 ### 5 oktober
 Ik moest met mijn tafel Modulair scale and meaningful typography
 <img width="555" height="791" alt="Scherm­afbeelding 2026-10-07 om 08 53 15" src="https://github.com/user-attachments/assets/c4768560-d735-4dfb-a048-8fa06db442b0" />
