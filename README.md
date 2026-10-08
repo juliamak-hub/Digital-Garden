@@ -12,6 +12,17 @@ Deep dive Vasilis: de belangrijkste informatie heb ik genoteerd.
 <img width="550" height="723" alt="Scherm­afbeelding 2026-10-08 om 14 28 29" src="https://github.com/user-attachments/assets/2ea10f93-cd87-46cf-be80-e11dd1857f7c" />
 
 
+<video src="https://github.com/user-attachments/assets/e4a8ac3c-4a35-434b-bc9b-68475ff99277" alt:"video songtekst" />
+
+
+
+
+
+
+
+
+
+
 ### 7 oktober
 
 Bron:[Transition tools](https://www.toptal.com/developers/css3maker/css3-transform)
