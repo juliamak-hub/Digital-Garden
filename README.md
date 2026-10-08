@@ -10,8 +10,6 @@ Bron:[Transition tools](https://www.toptal.com/developers/css3maker/css3-transfo
 Bron: [CSS en HTML tools](https://webcode.tools/css-generator/word-spacing/)
 Bron: [Wakamaifondue.com](https://wakamaifondue.com)
 
-<video src="./Video/Schermopname 2026-10-08 om 13.44.53.mov" alt="songtekst">
-
 checkout:
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 Het zorgt voor snelheid en consistentie bij het plaatsen van elementen. Het zorgt voor overzicht en rust voor de bezoeker, waardoor de pagina makkelijker te lezen is.
