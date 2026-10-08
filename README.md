@@ -1,4 +1,3 @@
-
 # Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
@@ -6,23 +5,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 7 oktober
+
 Bron:[Transition tools](https://www.toptal.com/developers/css3maker/css3-transform)
 Bron: [CSS en HTML tools](https://webcode.tools/css-generator/word-spacing/)
 Bron: [Wakamaifondue.com](https://wakamaifondue.com)
 
+<video src="./Video/Schermopname 2026-10-08 om 13.44.53.mov" alt="songtekst">
 
-
-checkout: 
+checkout:
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
-Het zorgt voor snelheid en consistentie bij het plaatsen van elementen. Het zorgt voor overzicht en rust voor de bezoeker, waardoor de pagina makkelijker te lezen is. 
+Het zorgt voor snelheid en consistentie bij het plaatsen van elementen. Het zorgt voor overzicht en rust voor de bezoeker, waardoor de pagina makkelijker te lezen is.
 Noem drie manieren om chaos in je ontwerp te voorkomen.
+
 1. Visuele hiërarchie: Maak belangrijke dingen groter/ opvallender.
 2. Witruimte: Geef elementen ademruimte.
 3. Beperking: Gebruik een maximaal aantal lettertypes, groottes en stylen.
-Hoeveel gekkigheid moet er in je werk zitten?
-
+   Hoeveel gekkigheid moet er in je werk zitten?
 
 ### 5 oktober
+
 Ik moest met mijn tafel Modulair scale and meaningful typography
 <img width="555" height="791" alt="Scherm­afbeelding 2026-10-07 om 08 53 15" src="https://github.com/user-attachments/assets/c4768560-d735-4dfb-a048-8fa06db442b0" />
 
@@ -31,92 +32,87 @@ Schetsen voor songtekst van Intergalactic Beastie Boys:
 <img width="984" height="795" alt="Scherm­afbeelding 2026-10-07 om 08 53 33" src="https://github.com/user-attachments/assets/d9cc94d7-5fc4-465b-9eb8-8b1b06e8f63f" />
 <img width="1305" height="569" alt="Scherm­afbeelding 2026-10-07 om 08 53 41" src="https://github.com/user-attachments/assets/50ed1a19-5c30-40e3-b489-3b9640a521d9" />
 
-
-
-
-
 Checkout:
+
 1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben):
-Deze termen zijn typografische ontwerp termen die te maken hebben met afstand en uitlijning van de tekst, lay-out en historie, compositie en beeldtaal.
+   Deze termen zijn typografische ontwerp termen die te maken hebben met afstand en uitlijning van de tekst, lay-out en historie, compositie en beeldtaal.
 
 2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
-De aangeraden ideale regellengte door typografen is 66 tekens. Als je namelijk te veel of te weinig tekens op een regel hoe comfortabel iemand een tekst leest.
+   De aangeraden ideale regellengte door typografen is 66 tekens. Als je namelijk te veel of te weinig tekens op een regel hoe comfortabel iemand een tekst leest.
 
 3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
-Ik zou kiezen voor grootte als ik maar 1 variabele tot mijn beschikking had om hiërarchie aan te brengen. Dit lijkt mij het meest belangrijke variabele om te hebben voor de structuur van de tekst, zoals wat het meest belangrijke is om te lezen of wat meteen je aandacht zou moeten trekken en wat daarna.
+   Ik zou kiezen voor grootte als ik maar 1 variabele tot mijn beschikking had om hiërarchie aan te brengen. Dit lijkt mij het meest belangrijke variabele om te hebben voor de structuur van de tekst, zoals wat het meest belangrijke is om te lezen of wat meteen je aandacht zou moeten trekken en wat daarna.
+
 ### 3 oktober
+
 <img width="617" height="805" alt="Scherm­afbeelding 2026-10-05 om 11 13 48" src="https://github.com/user-attachments/assets/e0efe441-3eb8-474e-97a7-c3d3110d338e" />
 <img width="620" height="797" alt="Scherm­afbeelding 2026-10-05 om 11 13 58" src="https://github.com/user-attachments/assets/9a109f6b-5eae-4ea9-a36b-52845a0578e1" />
 <img width="1459" height="761" alt="Scherm­afbeelding 2026-10-05 om 11 14 09" src="https://github.com/user-attachments/assets/52c25c90-e028-483b-a40a-d3b00d1d41ff" />
 <img width="1103" height="793" alt="Scherm­afbeelding 2026-10-05 om 11 14 23" src="https://github.com/user-attachments/assets/577ba590-3e68-4eaa-84f9-b4d035d233fa" />
 
-
 ### 2 oktober
+
 Mijn website design nu:
 
 <img width="1493" height="853" alt="Scherm­afbeelding 2026-10-02 om 12 31 34" src="https://github.com/user-attachments/assets/bdc94607-b9e1-4651-959e-72516cccaaeb" />
 <img width="1488" height="766" alt="Scherm­afbeelding 2026-10-02 om 12 33 36" src="https://github.com/user-attachments/assets/bdd865e0-2ee8-4e2e-8bcd-2ad10cef6e01" />
-
-
 
 hoofdinhoud button:
 Met hover <img width="270" height="65" alt="Scherm­afbeelding 2026-10-02 om 11 58 30" src="https://github.com/user-attachments/assets/dac543e5-eb12-4ae5-9c7e-fb163c943f57" />
 <img width="219" height="64" alt="Scherm­afbeelding 2026-10-02 om 11 58 23" src="https://github.com/user-attachments/assets/0053dbf9-9abd-45c7-9144-126321420f72" />
 
 ### 1 oktober
+
 <img width="698" height="604" alt="Scherm­afbeelding 2026-10-01 om 16 02 08" src="https://github.com/user-attachments/assets/5b6465b3-48f6-4128-8acf-717b0834037f" />
 <img width="1300" height="560" alt="Scherm­afbeelding 2026-10-01 om 16 01 57" src="https://github.com/user-attachments/assets/c2f0b0ad-5dd9-493d-b5d7-9d1cdaa61504" />
 Ik heb het design van mijn cookie button af gemaakt. Daarnaast heb ik afbeeldingen van lelies toegevoegd aan mijn website.
 
-
 Img:
-- Bron:[Oranje lelie
-](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FLelie_(geslacht)&ved=0CBcQjRxqFwoTCPjWq77dmZcDFQAAAAAdAAAAABA4&opi=89978449)
-- Bron:[Lelie lichtroze Pinterest
-](https://nl.pinterest.com/pin/747667975687272743/)
-- Bron:[Lelie roze Pinterest
-](https://nl.pinterest.com/pin/747667975687272758/)
-- Bron:[Lelie oranje Pinterest
-](https://nl.pinterest.com/pin/747667975687272759/)
 
+- Bron:[Oranje lelie
+  ](<https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FLelie_(geslacht)&ved=0CBcQjRxqFwoTCPjWq77dmZcDFQAAAAAdAAAAABA4&opi=89978449>)
+- Bron:[Lelie lichtroze Pinterest
+  ](https://nl.pinterest.com/pin/747667975687272743/)
+- Bron:[Lelie roze Pinterest
+  ](https://nl.pinterest.com/pin/747667975687272758/)
+- Bron:[Lelie oranje Pinterest
+  ](https://nl.pinterest.com/pin/747667975687272759/)
 
 <img width="1000" height="500" alt="Scherm­afbeelding 2026-09-30 om 10 43 01" src="https://github.com/user-attachments/assets/cb75d979-778f-482e-8247-c7eac2c43fe0" />
 Met de extentie colorblindly heb ik getest of mijn website leesbaar is voor iedereen die geen of weinig kleur kan waarnemen.
 
-
 ### 30 september
+
 WCAG checklist;
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-30 om 10 16 02" src="https://github.com/user-attachments/assets/7a62a126-7022-4671-bc0b-f923e16926bb" />
 
 Bron: [Lelie IMG Dutch-Bulbs
 ](https://blog.dutch-bulbs.com/nl/top-10-oosterse-leliesoorten-de-best-geurende-lelies-voor-uw-tuin/)
 
-
 checkout:
+
 1. Web Content Accessibility Guidelines is een geaccepteerde standaard voor de toegankelijkheid van websites die gebruikt wordt door organisaties, bedrijven en overheden.
 2. Ik vind het moeilijker met een screenreader de website te bedienen, omdat je best moet zoeken tussen tabs en als je het niet kan vinden kan je niet naar het scherm kijken om te zien waar je heen moet.
 3. Ik vind slecht zicht lastig om rekening mee te houden. De enige tool die je hebt ik je gehoor en je toetsenbord, daarin tegen vind ik contrast minder lastig om rekening mee te houden.
-   
-### 29 september
-Ik ben bezig geweest met mijn login pagina. Als de gebruiker niks invult, niet akkoord gaat met de voorwaarden en een foutieve naam en/of een verkeerde e-mail invult kan de inhoud niet verstuurd worden. Bron: [S2 meer interactie met HTML en CSS](https://codepen.io/editor/vasilisvg/pen/01a0e40e-186c-72e6-b05c-c76e14c35206)
 
+### 29 september
+
+Ik ben bezig geweest met mijn login pagina. Als de gebruiker niks invult, niet akkoord gaat met de voorwaarden en een foutieve naam en/of een verkeerde e-mail invult kan de inhoud niet verstuurd worden. Bron: [S2 meer interactie met HTML en CSS](https://codepen.io/editor/vasilisvg/pen/01a0e40e-186c-72e6-b05c-c76e14c35206)
 
 <img width="856" height="303" alt="Scherm­afbeelding 2026-09-29 om 20 45 17" src="https://github.com/user-attachments/assets/948ce82f-842e-4248-a470-2f4f1dbd5ac4" />
 <img width="841" height="308" alt="Scherm­afbeelding 2026-09-29 om 20 52 46" src="https://github.com/user-attachments/assets/da64c9a1-91f8-478e-9452-8fd816f42fac" />
 <img width="870" height="321" alt="Scherm­afbeelding 2026-09-29 om 20 44 55" src="https://github.com/user-attachments/assets/7ae10851-4582-4e51-b04f-00712eeae0c4" />
 
-
 ### 28 september
+
 <img width="777" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 06 10" src="https://github.com/user-attachments/assets/b5313766-2cb4-4cf7-8e80-4cf6b49d2952" />
 <img width="774" height="500" alt="Scherm­afbeelding 2026-09-28 om 12 05 51" src="https://github.com/user-attachments/assets/350e9372-e71b-41c2-bded-b1333db3db16" />
 
 Mijn design voor een cookie pop-up button:
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-28 om 13 29 02" src="https://github.com/user-attachments/assets/8165a67a-e77e-4329-abdc-e9f36db82fdf" />
 
-
 Mijn basis uitwerking in Figma:
-Waarom deze button gebruikersvriendelijk is. De externe diensten zijn op de eerste pagina's getoond. De gebruiker hoeft niet ver opzoek naar deze informatie. De weiger en akkoord button hebben hetzelfde ontwerp. Er word getoond waarom de platformen in de website zitten. 
-
+Waarom deze button gebruikersvriendelijk is. De externe diensten zijn op de eerste pagina's getoond. De gebruiker hoeft niet ver opzoek naar deze informatie. De weiger en akkoord button hebben hetzelfde ontwerp. Er word getoond waarom de platformen in de website zitten.
 
 NS app zonder toetsenbord:
 
@@ -124,20 +120,19 @@ NS app zonder toetsenbord:
 
 Animatie toegevoegd aan mijn Allow cookies button:
 
-
 <img width="345" height="120" alt="Scherm­afbeelding 2026-09-28 om 20 26 03" src="https://github.com/user-attachments/assets/03d3616f-97ae-4df7-910c-8c3da3ab87ed" />
 <img width="345" height="120" alt="Scherm­afbeelding 2026-09-28 om 20 26 08" src="https://github.com/user-attachments/assets/a7d20ef9-c5b7-4aa2-a01d-69701f211bb9" />
 
-
 checkout:
-1. Hij vindt het minder interessant om bezig te zijn met de technische structuur van html en leuker om bezig te zijn met hoe de gebruiker de website ervaart. 
+
+1. Hij vindt het minder interessant om bezig te zijn met de technische structuur van html en leuker om bezig te zijn met hoe de gebruiker de website ervaart.
 
 2. motorisch, visueel, cognitief, auditief.
 
 3. command + F5 is voice over functie, control + option + U is open lijst met heading, Pijltje omhoog of omlaag is wisselen tussen lijst, enter is kies tab, control + option + shift + pijloplaag is tabben door website heen en control + option + command + ← → is selecteer een categorie in de rotor.
 
-
 ### 25 september
+
 <img width="750" height="400" alt="Scherm­afbeelding 2026-09-25 om 09 18 32" src="https://github.com/user-attachments/assets/73189269-fb02-4906-bc66-f98cea6a848d" />
 <img width="750" height="400" alt="Scherm­afbeelding 2026-09-25 om 09 18 45" src="https://github.com/user-attachments/assets/d5197ab2-3f97-4024-badd-941a4b6a6de6" />
 <img width="193" height="155" alt="Scherm­afbeelding 2026-09-25 om 09 18 57" src="https://github.com/user-attachments/assets/86d7c6c3-ad9e-4a28-869e-94857904c329" />
@@ -151,68 +146,68 @@ Checkout:
 We hebben geleerd wat niet gebruikersvriendelijke pop-ups zijn. We hebben geleerd wat er in een cookie pop-up moet zitten en de consequenties er van als je dat niet heb. We hebben nog meer geleerd over buttons in de deep dive. Ik heb geleerd van een mede student hoe ik bewegende gradients in mijn website kan toevoegen. Ik wil graag de weetjes van mijn website uitbreiden en mijn cookie pop-up button bijwerken.
 
 ### 23 september
-Bron: [Gina Tricot](https://www.ginatricot.com/nl?utm_source=google&utm_medium=cpc&utm_campaign=nl-search-pure-brand&utm_content=Brand&utm_ad=661416503218&utm_term=gina%20tricot&matchtype=e&device=c&GeoLoc=9197724&placement=&network=g&campaign_id=20254584237&adset_id=150451357335&ad_id=661416503218&gad_source=1&gad_campaignid=20254584237&gbraid=0AAAAADpllJFevbi5qQvYbXr_yAE32TW1-&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ93aFu3qmxs1wkQFdBbZNWHU4hf4omlyr1cOOC7sGkP5gFmaB2vPZ8oaAoV9EALw_wcB)
 
+Bron: [Gina Tricot](https://www.ginatricot.com/nl?utm_source=google&utm_medium=cpc&utm_campaign=nl-search-pure-brand&utm_content=Brand&utm_ad=661416503218&utm_term=gina%20tricot&matchtype=e&device=c&GeoLoc=9197724&placement=&network=g&campaign_id=20254584237&adset_id=150451357335&ad_id=661416503218&gad_source=1&gad_campaignid=20254584237&gbraid=0AAAAADpllJFevbi5qQvYbXr_yAE32TW1-&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ93aFu3qmxs1wkQFdBbZNWHU4hf4omlyr1cOOC7sGkP5gFmaB2vPZ8oaAoV9EALw_wcB)
 
 1. <img width="700" height="500" alt="Scherm­afbeelding 2026-09-24 om 12 26 31" src="https://github.com/user-attachments/assets/ddad5939-10cc-4801-b13c-d8a4b033d9fe" />
 
 2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
 
-We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
+We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk?
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."- Er is in het cookie scherm geen optie om de cookies af te wijzen.
+
 - De knop naar instellingen is veel kleiner en minder opvallend.
 - Maximale bewaartermijnen zijn langer dan dat je de website gebruikt.
 - In de noodzakelijke cookies word je activiteit bijgehouden, opgeslagen en getoond aan andere personen.
 
-
-
 Human Consent Component:
 
 1.
--	GitHub: Verwerkt automatisch IP-adressen en browsergegevens in serverlogs voor beveiliging en netwerkbeheer.
--	Digitaaltuintje Component: Slaat vaak lokaal gegevens op (bijv. voorkeuren zoals Dark Mode of geopende notities).
--	Externe diensten: Externe fonts (Google Fonts) verwerken ook bezoekersgegevens.
 
+- GitHub: Verwerkt automatisch IP-adressen en browsergegevens in serverlogs voor beveiliging en netwerkbeheer.
+- Digitaaltuintje Component: Slaat vaak lokaal gegevens op (bijv. voorkeuren zoals Dark Mode of geopende notities).
+- Externe diensten: Externe fonts (Google Fonts) verwerken ook bezoekersgegevens.
 
 2.
--	Privacyverklaring: Een korte notitie op je site die helder uitlegt wat er met gegevens gebeurt.
--	Footer-link: Een vaste link onderaan je pagina naar je privacybeleid.
 
+- Privacyverklaring: Een korte notitie op je site die helder uitlegt wat er met gegevens gebeurt.
+- Footer-link: Een vaste link onderaan je pagina naar je privacybeleid.
 
 3.
--	Opt-in Banner: Banner met gelijkwaardige accepteer en weiger knoppen.
--	Gelaagde Banner: Instellingen per categorie (Noodzakelijk, Analytics, Marketing).
--	Modal Overlay: Schermvullende pop-up die de pagina blokkeert tot een keuze is gemaakt.
--	Contextueel: Pas toestemming vragen op het moment dat een gebruiker op een externe video of widget klikt.
--	Toggle Switches: Schakelaars in een menu (standaard uit).
--	Formulier Checkbox: Een verplicht (ongevinkt) vakje bij een contactformulier.
--	Age Gate: Leeftijdsverificatie via een pop-up alvorens data te verwerken.
--	Voorkeurenmenu in Footer: Een knop waarmee gebruikers hun keuzes altijd kunnen herzien.
--	Floating Cookie-knop: Een vast icoontje op het scherm om instellingen op te roepen.
--	Browser Signalen (GPC/DNT): Automatisch toestemming weigeren als de browser een Do Not Track-signaal stuurt.
 
-4.
-Subtiele Footer-link. Korte, transparante privacynotitie of alleen als ze van toepassing zijn. Word alleen laten zien als er externe links aan vast zitten.
+- Opt-in Banner: Banner met gelijkwaardige accepteer en weiger knoppen.
+- Gelaagde Banner: Instellingen per categorie (Noodzakelijk, Analytics, Marketing).
+- Modal Overlay: Schermvullende pop-up die de pagina blokkeert tot een keuze is gemaakt.
+- Contextueel: Pas toestemming vragen op het moment dat een gebruiker op een externe video of widget klikt.
+- Toggle Switches: Schakelaars in een menu (standaard uit).
+- Formulier Checkbox: Een verplicht (ongevinkt) vakje bij een contactformulier.
+- Age Gate: Leeftijdsverificatie via een pop-up alvorens data te verwerken.
+- Voorkeurenmenu in Footer: Een knop waarmee gebruikers hun keuzes altijd kunnen herzien.
+- Floating Cookie-knop: Een vast icoontje op het scherm om instellingen op te roepen.
+- Browser Signalen (GPC/DNT): Automatisch toestemming weigeren als de browser een Do Not Track-signaal stuurt.
 
+4.  Subtiele Footer-link. Korte, transparante privacynotitie of alleen als ze van toepassing zijn. Word alleen laten zien als er externe links aan vast zitten.
 
 <img width="1000" height="600" alt="Scherm­afbeelding 2026-09-25 om 09 07 16" src="https://github.com/user-attachments/assets/f397b613-0c2d-410f-8908-128fb7141bd3" />
 
-Checkout: 
+Checkout:
 Wat is een wireflow en wat heb je er aan?
-Een ontwerptool die wireframes combineert met flowcharts. 
+Een ontwerptool die wireframes combineert met flowcharts.
 
 Wat zijn dark UX patterns? Geef drie voorbeelden...
 Bewuste ontwerptrucs die gebruikers manipuleren om acties te verrichten die ze eigenlijk niet willen. Zoals een neppe aftelklok, preselection en Het besluit van een gebruiker om iets niet te doen word afgestraft.
 
 Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
-De keuzevrijheid van de gebruiker moet centraal staan. Dit kan je doen met bijvoorbeeld gelijkwaardige knoppen, knoppen vooraf uit gevinkt en de taal moet begrijpelijk zijn. 
+De keuzevrijheid van de gebruiker moet centraal staan. Dit kan je doen met bijvoorbeeld gelijkwaardige knoppen, knoppen vooraf uit gevinkt en de taal moet begrijpelijk zijn.
 
 ### 21 september
+
 Bron: [Modern Font Stacks](https://modernfontstacks.com/)
 <img width="1118" height="782" alt="Scherm­afbeelding 2026-09-21 om 14 36 22" src="https://github.com/user-attachments/assets/c7c1e87f-8625-460d-af5b-78d9f4b0b7ef" />
 
 ### 18 september
+
 Voortgangsgesprek:
 Er waren een paar kleine dingen waar ik nog aandacht aan moet besteden.
 
@@ -227,7 +222,6 @@ Retrospect:
 <img width="500" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 39" src="https://github.com/user-attachments/assets/4dfe5b30-ddb1-4dc2-8174-6be9971e93fe" />
 <img width="500" height="300" alt="Scherm­afbeelding 2026-09-20 om 15 59 47" src="https://github.com/user-attachments/assets/63c8f6de-b017-45d5-bc69-dd5f0d47d511" />
 
-
 Checkout:
 Wat zijn HTML landmark role elements?
 HTML landmark role elementen zijn speciale sectie-elementen die de indeling van een webpagina opdelen in herkenbare, navigeerbare regio's.
@@ -239,45 +233,40 @@ Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd
 Als ik een cookie pop-up zie probeer ik altijd de voorwaarden te weigeren. Als dat niet kan probeer ik alle aanstaande vinkjes uit te zetten of klik ik de website weg. Ik wil namelijk geen website bezoeken waar ik niet zelf mag bepalen wat ik deel.
 
 ### 17 september
+
 Ik ben niet zo ver gekomen als dat ik zelf had gehoopt. Ik heb een home, login, review & contact pagina gemaakt. Ik heb het lettertype ImperialScript toegevoegd voor een sierlijke en elegante uitstraling. Dit heb ik gekozen, omdat er uit mijn visual research kwam dat lelies een sierlijke en elegante uitstraling hebben. Perfect lettertype dus voor in een website die over lelies gaat.
 <img width="1500" height="886" alt="Scherm­afbeelding 2026-09-18 om 00 14 05" src="https://github.com/user-attachments/assets/55df69cc-8b81-4cf0-ae2e-c16deeb2a74b" />
 <img width="1501" height="889" alt="Scherm­afbeelding 2026-09-18 om 00 14 17" src="https://github.com/user-attachments/assets/05058769-3649-49ee-8ee1-5634434c5c45" />
-
 
 <img width="1504" height="854" alt="Scherm­afbeelding 2026-09-18 om 00 16 51" src="https://github.com/user-attachments/assets/7588cbb2-8e26-4b2d-bf7f-a2c463294f5e" />
 <img width="1501" height="850" alt="Scherm­afbeelding 2026-09-18 om 00 16 28" src="https://github.com/user-attachments/assets/5856747b-a8a1-4199-b25f-290fd451c329" />
 <img width="1501" height="849" alt="Scherm­afbeelding 2026-09-18 om 00 16 17" src="https://github.com/user-attachments/assets/59878ccc-fec6-45f6-bdae-486a0c96076c" />
 
-
-
 ### 16 september
+
 Mijn website nu:
 
 <img width="700" height="440" alt="Scherm­afbeelding 2026-09-16 om 14 16 38" src="https://github.com/user-attachments/assets/fc4f480b-ba03-4831-876c-e8f41bde6500" />
 <img width="700" height="440" alt="Scherm­afbeelding 2026-09-16 om 14 16 59" src="https://github.com/user-attachments/assets/d2a781de-7073-46c6-9c39-7daf1b8a7496" />
 <img width="700" height="440" alt="Scherm­afbeelding 2026-09-16 om 14 16 43" src="https://github.com/user-attachments/assets/a6395941-d747-4a56-89cb-63ea46c8dcd3" />
 
-
 mobile schets voor mijn website:
 
-
 <img width="371" height="689" alt="Scherm­afbeelding 2026-09-18 om 00 25 25" src="https://github.com/user-attachments/assets/e3b56469-3abc-401e-8868-cbeff6a00dbf" />
-
-
-
 
 checkout:
 
 3 gestalt principes:
-- contrast: Je kan met contrast laten zien dat elementen verschillend zijn. Ook kan je met contrast text leesbaarder maken. 
+
+- contrast: Je kan met contrast laten zien dat elementen verschillend zijn. Ook kan je met contrast text leesbaarder maken.
 - balans: Er is een eerlijke verdeling in visuele signalen.
 - hierarchy: Het belangrijkste is en grootste weergegeven. Het is het eerste waar je naar zou moeten kijken als je op de website komt.
 
-Een grid bied meer mogelijkheden voor een opzet van je lay-out. Een grid is eigenlijk een column die altijd in en bepaalde volgorde staat.Ik neem het principe Hierarchy mee als een iteratie in mijn ontwerp, omdat het belangrijk is voor de duidelijkheid van mijn pagina. 
-  
-### 14 september
-checkout:
+Een grid bied meer mogelijkheden voor een opzet van je lay-out. Een grid is eigenlijk een column die altijd in en bepaalde volgorde staat.Ik neem het principe Hierarchy mee als een iteratie in mijn ontwerp, omdat het belangrijk is voor de duidelijkheid van mijn pagina.
 
+### 14 september
+
+checkout:
 
 - Een website is lelijk als hij niet meer responsive is en onduidelijk is opgesteld.
 - Een goeie grid toevoegen met de juiste css.
@@ -287,53 +276,41 @@ De basis van mijn website opzet in Figma:
 
 <img width="704" height="482" alt="Scherm­afbeelding 2026-09-14 om 19 07 30" src="https://github.com/user-attachments/assets/5b1e8b32-c710-46fc-80c2-3617de38ec2e" />
 
-
-
-
-
-
-
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 14 31" src="https://github.com/user-attachments/assets/c876e0b5-da11-44f6-88b5-4c4e02bb50db" />
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 14 39" src="https://github.com/user-attachments/assets/ed4714a5-3f45-4bb7-a0aa-d4e664c47f47" />
-
-
 
 ### 10 & 11 september
 
 Gradients:
 Deze opdrachten heb ik al eerder gedaan, maar was het vergeten op mijn Readme te zetten.
 
-
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 07 54" src="https://github.com/user-attachments/assets/ab2432c3-00c8-42af-9b0b-f7258707b33e" />
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 07 43" src="https://github.com/user-attachments/assets/6ea4c69d-ac8d-4d95-be90-bedd141ad242" />
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 07 31" src="https://github.com/user-attachments/assets/bb0801ae-cf28-4199-9a4b-c81bb12a4229" />
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 11 13 46" src="https://github.com/user-attachments/assets/e02778ca-bf89-4cdf-b910-ab952f0aed20" />
 
-
 Voortgangsgesprek feedback:
 Feedback Julia
-Je bent goed aan het oriënteren en begrijpen. 
-Je bent ook goed aan het verbeelden. Je verzamelt afbeeldingen en je bent goed aan het schetsen. 
+Je bent goed aan het oriënteren en begrijpen.
+Je bent ook goed aan het verbeelden. Je verzamelt afbeeldingen en je bent goed aan het schetsen.
 Het doen van de deepdives is essentieel voor dit blok. Dat doe je ook goed.
 Je evalueert door kritisch te kijken naar bijvoorbeeld je schetsen en crazy eights.
-Je bent professioneel en gestructureerd bezig. 
+Je bent professioneel en gestructureerd bezig.
 Blijf kijken of je website Webby is, je kan dit altijd vragen bij feedback momenten.
 <br>
 
 FDND les gevolgd van Justus:
-- Digital gardening is een oplossing tegen eentonigheid. Het moet ruw en niet perfect zijn. alles in je digital garden hangt samen. 
+
+- Digital gardening is een oplossing tegen eentonigheid. Het moet ruw en niet perfect zijn. alles in je digital garden hangt samen.
 - Het web voelt anders. Mensen vullen het web door formulieren en zitten niet meer zelf met hun handen aan de technologie.
 - De stream is verslavend. Op deze manier kunnen bedrijven veel geld met jouw verdienen.
 - Een leuk idee voor mijn website is glitters toevoegen aan de achtergrond die harden en zachter schijnen.
 - Hoe maak je je website bekend? Je website posten op andere platformen.
 
-  
-
 Deep Dive Grid:
 [Grid generator](https://cssgridgenerator.com)
 
 Mijn oefeningen in Codepen:
-
 
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 09 06" src="https://github.com/user-attachments/assets/c300a161-e5ae-43bb-8003-5f4c88190e27" />
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 07 48" src="https://github.com/user-attachments/assets/a72bc236-23eb-4828-8331-bebba2db3e07" />
@@ -346,8 +323,6 @@ Mijn oefeningen in Codepen:
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 29 41" src="https://github.com/user-attachments/assets/11e70610-acd5-465b-8dd1-30ae9f88e65b" />
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 27 13" src="https://github.com/user-attachments/assets/3e2bec75-9194-4691-ad5e-69e0a44faf28" />
 
-
-
 5 Mobile-first schetsen:
 
 <img width="300" height="480" alt="Scherm­afbeelding 2026-09-11 om 12 10 10" src="https://github.com/user-attachments/assets/fcabe23b-7494-46bf-9bb6-58c2ea5180a4" />
@@ -356,10 +331,8 @@ Mijn oefeningen in Codepen:
 <img width="300" height="480" alt="Scherm­afbeelding 2026-09-11 om 12 09 11" src="https://github.com/user-attachments/assets/26d6118e-ce6c-4518-9d31-81a43a6afdd8" />
 <img width="300" height="400" alt="Scherm­afbeelding 2026-09-11 om 12 09 00" src="https://github.com/user-attachments/assets/e3495320-df1e-4df9-922b-d22e9a9bdf72" />
 
-
-
-
 ### 9 september
+
 Visual Research. Ik voel mij: geïmponeerd
 
 <img width="700" height="300" alt="Scherm­afbeelding 2026-09-09 om 15 07 47" src="https://github.com/user-attachments/assets/5e0707a9-98ba-431c-b164-134b3b311b1b" />
@@ -372,7 +345,7 @@ Het sfeerwoord dat bij geïmponeerd past is voor mij: levendig, chic, sfeervol, 
 <img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 49 22" src="https://github.com/user-attachments/assets/8ef4978e-b499-4fb1-8446-6ebf7803db7b" />
 <img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 49 16" src="https://github.com/user-attachments/assets/4b98df52-77d5-4aa2-8600-40dc46df49a4" />
 <img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 49 03" src="https://github.com/user-attachments/assets/0f4ddc6f-f603-4134-8318-3da2efdbf2e7" />
-<img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 43 43" src="https://github.com/user-attachments/assets/9d641ab1-537c-4079-b504-c1eb78c1bded" /> 
+<img width="744" height="390" alt="Scherm­afbeelding 2026-09-09 om 15 43 43" src="https://github.com/user-attachments/assets/9d641ab1-537c-4079-b504-c1eb78c1bded" />
 
 crazy 8 & beoordeling
 
@@ -382,9 +355,10 @@ crazy 8 & beoordeling
 <img width="450" height="325" alt="Scherm­afbeelding 2026-09-09 om 17 19 21" src="https://github.com/user-attachments/assets/43d04cdd-cc39-4cbf-8545-44294c0d12ec" />
 <img width="450" height="325" alt="Scherm­afbeelding 2026-09-09 om 17 19 14" src="https://github.com/user-attachments/assets/8c7b3112-6238-4c4c-a612-515a1cde2374" />
 
-
 Checkout:
+
 1. Visual research in 3 stappen:
+
 - Directe visuele beelden
 - abstract visuele vertaling
 - uitgangspunten opschrijven
@@ -393,10 +367,10 @@ Ik heb nu uitgangspunten die ik vooraf niet had kunnen verzinnen. Met die uitgan
 
 2. Mijn garden gaat over verschillende soorten en ontwikkelingen van lelies. Dit ga ik doen aan de hand van elegante, maar kleurrijke text, opvallende Visuals, dark/light mode, hover effecten, login/registratie. Opties zijn nog video met sound en een review mogelijkheid.
 
-3. Ik wil graag makkelijke klik functies toevoegen. Ook wil ik dat wat ik aan text heb kort maar krachtig maken zodat de gebruiker de aandacht er bij kan houden. Korte stukken tekst inplaats van alles bij elkaar. Als het lukt een carrousel maken. 
-
+3. Ik wil graag makkelijke klik functies toevoegen. Ook wil ik dat wat ik aan text heb kort maar krachtig maken zodat de gebruiker de aandacht er bij kan houden. Korte stukken tekst inplaats van alles bij elkaar. Als het lukt een carrousel maken.
 
 ### 8 september
+
 De HTML presentatie
 
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 45 36" src="https://github.com/user-attachments/assets/3259cadc-7986-434c-ba26-bf92ea76d06a" />
@@ -406,7 +380,7 @@ De HTML presentatie
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 46 38" src="https://github.com/user-attachments/assets/54b7dfef-2577-4f2b-90da-a4bac8ea4ad5" />
 <img width="1135" height="853" alt="Scherm­afbeelding 2026-09-11 om 09 21 22" src="https://github.com/user-attachments/assets/04f31c13-4553-4080-bdb0-eb6507f7e9a0" />
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 47 04" src="https://github.com/user-attachments/assets/b5ff0e4a-0d30-4cde-a06d-bd0b563791ab" />
- 
+
 
 Deep Dive Light & Dark:
 
@@ -425,8 +399,6 @@ Cupcake
 <img width="250" height="250" alt="Scherm­afbeelding 2026-09-10 om 12 13 59" src="https://github.com/user-attachments/assets/dd80db81-9f28-4675-aceb-364fa9644243" />
 <img width="250" height="250" alt="Scherm­afbeelding 2026-09-10 om 12 13 51" src="https://github.com/user-attachments/assets/144b3cbd-f66f-40a8-b986-8aee162f6a33" />
 
-
-
 Eenhoorns
 
 <img width="400" height="450" alt="Scherm­afbeelding 2026-09-10 om 12 05 25" src="https://github.com/user-attachments/assets/4113a411-d318-42ab-af95-6206e574a947" />
@@ -434,51 +406,45 @@ Eenhoorns
 <img width="400" height="200" alt="Scherm­afbeelding 2026-09-10 om 12 03 18" src="https://github.com/user-attachments/assets/f63d355e-3819-49c3-9fcf-30805c014362" />
 <img width="400" height="200" alt="Scherm­afbeelding 2026-09-10 om 12 03 03" src="https://github.com/user-attachments/assets/b62709b6-f681-4498-8de2-0f46dfea077f" />
 
-
 Oefening 1
 
 <img width="250" height="300" alt="Scherm­afbeelding 2026-09-09 om 22 05 21" src="https://github.com/user-attachments/assets/3d8c264a-4545-40b4-8693-15228faa75d4" />
 <img width="250" height="300" alt="Scherm­afbeelding 2026-09-09 om 22 05 11" src="https://github.com/user-attachments/assets/4b982bc9-697c-4da6-9a8a-6d1458ae8f43" />
-
 
 Zonsondergang
 
 <img width="400" height="220" alt="Scherm­afbeelding 2026-09-10 om 11 51 39" src="https://github.com/user-attachments/assets/a3bd97be-cf0a-4322-9cf7-17323b56e5cb" />
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-10 om 11 51 55" src="https://github.com/user-attachments/assets/d9588795-d11b-4de9-8a03-244f8fd92570" />
 
-
 iPhone
 
 <img width="300" height="200" alt="Scherm­afbeelding 2026-09-10 om 11 41 40" src="https://github.com/user-attachments/assets/e5e03c5d-f0e2-4092-97a3-b494bafc3013" />
 <img width="300" height="200" alt="Scherm­afbeelding 2026-09-10 om 11 42 02" src="https://github.com/user-attachments/assets/9de58be1-6b8d-4e39-8756-a2791616d8da" />
 
-
 Hover state & focus state
 <img width="420" height="175" alt="Scherm­afbeelding 2026-09-10 om 14 24 26" src="https://github.com/user-attachments/assets/8bbb91bc-aabe-4df7-bbd4-aa22d51b439e" />
-
-
 
 hele website
 
 <img width="300" height="300" alt="Scherm­afbeelding 2026-09-10 om 11 05 42" src="https://github.com/user-attachments/assets/c4845004-6cb4-4cf1-ad61-fba23a4aa248" />
 <img width="300" height="300" alt="Scherm­afbeelding 2026-09-10 om 11 03 18" src="https://github.com/user-attachments/assets/f011da73-6947-43f2-bf9a-43f3f7057f1c" />
 
-
 ### 7 september
+
 De garden and the stream & twee websites analyseren:
 <img width="539" height="656" alt="Scherm­afbeelding 2026-09-11 om 12 06 29" src="https://github.com/user-attachments/assets/3c07f7a2-5f4c-4291-bc8f-23214b818051" />
 
 <img width="575" height="798" alt="Scherm­afbeelding 2026-09-11 om 12 04 09" src="https://github.com/user-attachments/assets/886bb307-ff48-4aa6-a7c0-96de9febaf8f" />
 
-
 1. Het is nooit af. Het is iets persoonlijker dan een reguliere website. Je maakt het niet om viraal te gaan. Een reguliere website heeft vaak een doel en regels, een digital garden hoeft dat niet te hebben. Toegangelijk zijn.
 
 2. De digital garden moet duidelijk zijn. Het moet een duidelijke hiërarchie hebben en er moet duidelijk staan waar je natte kan wat er in de website staat. Je moet kunnen zien dat het persoonlijk is voor iemand. De website die mij het meeste inspireerde was Bron:[ annaecook.com
-](https://annaecook.com), De visuals trekt veel aandacht wat ervoor zorgt dat ik alles wilde lezen.
+   ](https://annaecook.com), De visuals trekt veel aandacht wat ervoor zorgt dat ik alles wilde lezen.
 
 3. Ik wil aan de slag gaan met het kleurthema die ik wil gebruiken tijdens mijn website, welke informatie ik er in wil zetten en hoe ik dat ga doen.
 
 ### 4 september
+
 Deep dive 3 Praktische css.
 Mijn lelijke website:
 <img width="330" height="450" alt="Scherm­afbeelding 2026-09-04 om 09 17 40" src="https://github.com/user-attachments/assets/821d5507-308c-427c-9905-065fcf1cd485" />
@@ -491,10 +457,7 @@ Na de deep dive:
 
 <img width="330" height="450" alt="Scherm­afbeelding 2026-09-04 om 11 30 11" src="https://github.com/user-attachments/assets/d3450f70-0be0-4ecf-b192-6050f796c4de" />
 
-
-
-
-Ik heb mijn website hier op dark mode staan. Ik heb geleerd tijdens de les hoe ik dark mode moest instellen. De uitstraling van de website is beter geworden. 
+Ik heb mijn website hier op dark mode staan. Ik heb geleerd tijdens de les hoe ik dark mode moest instellen. De uitstraling van de website is beter geworden.
 Bron:[Utopia
 ](https://utopia.fyi/type/calculator/?c=360,16,1.2,1440,22,1.618,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12)
 Bron:[Met deze site kan je makkelijk codes samenstellen op basis van je webpagina.]
@@ -508,37 +471,30 @@ Hover butto gemaakt:
 <img width="289" height="65" alt="Scherm­afbeelding 2026-09-05 om 13 24 25" src="https://github.com/user-attachments/assets/0a405924-4a7c-44bc-b64c-0977b39c7565" />
 <img width="287" height="57" alt="Scherm­afbeelding 2026-09-05 om 13 24 31" src="https://github.com/user-attachments/assets/cf318aa2-536e-445b-8481-0bfd72827d78" />
 
-
-
-
-
 ### 2 sept - [Workshop]
+
 Deep dive 1 HTML & CSS Basics
 
 HTML is echt voor de inhoud van een website. CSS is voor de opmaak.
 
 Mijn vragen na het lezen van de introductie, basis webpagina' s en hallo CSS in de Bron:[ internetingishard.nl ](https://internetingishard.netlify.app/html-and-css/):
-Wat is het verschil tussen de color en background color? 
+Wat is het verschil tussen de color en background color?
 Wat veranderd er precies van kleur?
 
-Color veranderd de kleur van de tekst en background-color veranderd de kleur van de achtergrond. 
+Color veranderd de kleur van de tekst en background-color veranderd de kleur van de achtergrond.
 
-
-Is er een goed overzicht waar je alle HTML en CSS elementen kan zien? 
-Bron:[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet. 
-
+Is er een goed overzicht waar je alle HTML en CSS elementen kan zien?
+Bron:[ HTML5 Doctor ](https://html5doctor.com/) geeft een overzicht van HTML elementen want fijn is als je nog niet alle elementen uit je hoofd weet.
 
 Een Zaak die mij verwondert uitBron:[ MDN ](https://developer.mozilla.org/en-US/):
 
-Je kan best wel makkelijk video's in je website toevoegen. Als eerste verwachting dacht ik dat dit heel lang zou gaan duren. Ook kan je MDN goed gebruiken om meer over CSS,HTML & Javascript te weten te komen. 
-
+Je kan best wel makkelijk video's in je website toevoegen. Als eerste verwachting dacht ik dat dit heel lang zou gaan duren. Ook kan je MDN goed gebruiken om meer over CSS,HTML & Javascript te weten te komen.
 
 Deep dive 2 MMD, micro-interacties, forms
 
-We hebben hier herhaling gehad van onderdelen uit jaar 1. De affordance, feedforward, feedbackward, cue & prompt herhaalt. We hebben het gehad over micro interacties, zoals de trigger, rules, feedback & loop. Als laatst kregen we de opdracht om een papieren menu kaart online duidelijker te maken. 
+We hebben hier herhaling gehad van onderdelen uit jaar 1. De affordance, feedforward, feedbackward, cue & prompt herhaalt. We hebben het gehad over micro interacties, zoals de trigger, rules, feedback & loop. Als laatst kregen we de opdracht om een papieren menu kaart online duidelijker te maken.
 
 <img width="672" height="437" alt="Scherm­afbeelding 2026-09-02 om 16 30 24" src="https://github.com/user-attachments/assets/83c19e52-c253-45c2-ada5-4029b50f5aa8" />
-
 
 ### 31 aug - kickoff
 
