@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 8 oktober
 
-Deep dive Vasili's: de belangrijkste informatie heb ik genoteerd.
+Deep dive Vasilis: de belangrijkste informatie heb ik genoteerd.
 <img width="550" height="723" alt="Scherm­afbeelding 2026-10-08 om 14 28 29" src="https://github.com/user-attachments/assets/2ea10f93-cd87-46cf-be80-e11dd1857f7c" />
 
 
