@@ -381,7 +381,6 @@ De HTML presentatie
 <img width="1135" height="853" alt="Scherm­afbeelding 2026-09-11 om 09 21 22" src="https://github.com/user-attachments/assets/04f31c13-4553-4080-bdb0-eb6507f7e9a0" />
 <img width="754" height="565" alt="Scherm­afbeelding 2026-09-09 om 13 47 04" src="https://github.com/user-attachments/assets/b5ff0e4a-0d30-4cde-a06d-bd0b563791ab" />
 
-
 Deep Dive Light & Dark:
 
 Groot scherm
