@@ -13,7 +13,7 @@ Deep dive Vasilis: de belangrijkste informatie heb ik genoteerd.
 
 
 Video songtekst: https://github.com/user-attachments/assets/e4a8ac3c-4a35-434b-bc9b-68475ff99277
-
+Met gebruik van de deep-dive van Sanne heb ik coole effecten aan mijn songtekst kunnen toevoegen.
 
 
 
