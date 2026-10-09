@@ -17,12 +17,13 @@ Voortgang gesprek feedback:
 
 Checkout: 
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
-
+Ik gebruik een dikker gedrukt variabel van het lettertype. Daarnaast gebruik ik verschillende stylen.
 
 Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+Je maakt duidelijk voor de gebruiker wat belangrijker, harden of met meer aandacht gelezen moet worden. Je kan tekst op veel verschillende manieren lezen en met de verschillende stylen die ik in mijn ontwerp heb gebruikt. 
 
 Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
-
+In mijn liedje word er vaak hard geschreeuwd met een schele stem en daar heb ik een shake animatie aan toegevoegd. 
 
 ### 8 oktober
 
