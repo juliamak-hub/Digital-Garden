@@ -39,6 +39,9 @@ Noem drie manieren om chaos in je ontwerp te voorkomen.
 3. Beperking: Gebruik een maximaal aantal lettertypes, groottes en stylen.
    Hoeveel gekkigheid moet er in je werk zitten?
 
+Hoeveel gekkigheid moet er in je ontwerp zitten:
+Zoveel mogelijk
+
 ### 5 oktober
 
 Ik moest met mijn tafel Modulair scale and meaningful typography
