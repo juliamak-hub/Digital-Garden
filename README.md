@@ -4,6 +4,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 oktober
+Feedback Sara: Het ziet er cool uit. Ik kan goed de verschillende elementen zien van het liedje. Een top vind ik de animaties. HET IS BEWEGELIJK EN HET GEEFT GEVOEL AAN DE SONGTEKST. Tip: De snelle stukjes sneller laten lijken. 
+
 ### 8 oktober
 
 Deep dive Vasilis: de belangrijkste informatie heb ik genoteerd.
