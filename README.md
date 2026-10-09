@@ -5,7 +5,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 9 oktober
-Feedback Sara: Het ziet er cool uit. Ik kan goed de verschillende elementen zien van het liedje. Een top vind ik de animaties. HET IS BEWEGELIJK EN HET GEEFT GEVOEL AAN DE SONGTEKST. Tip: De snelle stukjes sneller laten lijken. 
+1. Feedback Sara: Het ziet er cool uit. Ik kan goed de verschillende elementen zien van het liedje. Een top vind ik de animaties.Het is bewegelijk en het    geeft gevoel aan de songtekst. Tip: De snelle stukjes sneller laten lijken.
+
+2. 
+
+
+Checkout: 
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+
 
 ### 8 oktober
 
