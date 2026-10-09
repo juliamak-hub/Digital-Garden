@@ -6,8 +6,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 9 oktober
 1. Feedback Sara: Het ziet er cool uit. Ik kan goed de verschillende elementen zien van het liedje. Een top vind ik de animaties.Het is bewegelijk en het    geeft gevoel aan de songtekst. Tip: De snelle stukjes sneller laten lijken.
+2. Feedback Inger: Het is een heel vet design. Je heb veel uitgewerkt en het past echt bij het liedje. Het zou als extra cool zijn als het woord chop per letter echt een stukje gechopped is. Ook aan het einde zou het cool zijn om het stukje drop it wat meer naar voren te laten komen.
+3. Feedback Liv: Je heb veel effecten toegevoegd en goed gewerkt met het font. Elk stukje heeft zijn eigen eigenschappen en trekt opnieuw de aandacht. 
 
-2. 
+
+Voortgang gesprek feedback:
+- Cookie button aanpassen.
+- Verder werken aan songtekst
 
 
 Checkout: 
