@@ -4,17 +4,6 @@ html {
     url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
 }
 
-@keyframes drop {
-  0%,
-  100% {
-    transform: translateY(0) rotate(390deg) skew(-41deg, 0deg);
-  }
-
-  50% {
-    transform: translateY(-30px) rotate(390deg) skew(-41deg, 0deg);
-  }
-}
-
 @font-face {
   font-family: "Seraphs";
   src: url("/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
@@ -144,6 +133,17 @@ body p:nth-of-type(6) {
   75% {
     transform: translateX(-30px) rotate(2deg) scale(1.05); /* Schuift naar links */
     opacity: 1;
+  }
+}
+
+@keyframes drop {
+  0%,
+  100% {
+    transform: translateY(0) rotate(390deg) skew(-41deg, 0deg);
+  }
+
+  50% {
+    transform: translateY(-30px) rotate(390deg) skew(-41deg, 0deg);
   }
 }
 
