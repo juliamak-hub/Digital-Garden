@@ -6,7 +6,7 @@ html {
 
 @font-face {
   font-family: "Seraphs";
-  src: url("/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+  src: url("/SeraphsVF.woff2") format("woff2");
 }
 /* MARK: items */
 
