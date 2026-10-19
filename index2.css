@@ -1,16 +1,27 @@
 html {
   height: 100%;
   background: 50% 50% no-repeat
-    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
 }
 
 @font-face {
   font-family: "Seraphs";
-  src: url("./assets/type/SeraphsVF.woff2") format("woff2");
+  src: url("./assets/type/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
 /* MARK: items */
 
-body {
+html {
+  color-scheme: light dark;
+
+   --color-gradients: light-dark(#6daa8a, #4b7e64);
+  --color-gradients2: light-dark(#cffacd,#79ab82);
+  --color-gradients3: light-dark(#649f74, #3e6f4c);
+  --color-gradients4: light-dark(#bfddc2, #bfddc2);
+  --a-hover: #db6588;
+  --a-focus: #e39bae;
+  --a-focus2: deeppink;
+}
+
+main {
   padding: 2em;
   display: grid;
   grid-template-columns: repeat(12fr, 1fr);
@@ -18,16 +29,17 @@ body {
   font-family: "Seraphs";
 }
 
-body p:first-of-type {
+main p:first-of-type {
   grid-column: 1 / 9;
   font-size: 1.5em;
   max-width: 22em;
 }
 
-h1 {
-  padding: 1em;
-  transform: rotate(320deg) translate(0px, 0px) skew(30deg, 0deg);
+h2 {
+  padding: 2em;
+  transform: rotate(330deg) translate(0px, 0px) skew(30deg, 0deg);
   font-family: "Seraphs";
+  max-width: 15em;
 }
 
 .Wop {
@@ -41,7 +53,7 @@ h1 {
   font-size: 2em;
   font-weight: bold;
   display: inline-block;
-  animation: shake 0.5s infinite linear;
+  animation: shake 0.3s infinite linear;
 }
 
 .TD {
@@ -58,18 +70,21 @@ h1 {
 }
 
 .loop {
+  display: inline-block;
   animation: wave 4s infinite ease-in-out;
 }
 
-body p:nth-of-type(2) {
+main p:nth-of-type(2) {
   grid-column: 5 / 8;
+  grid-row: 3;
   max-width: 15em;
   font-size: 3em;
   text-align: right;
   animation: drop 1.3s infinite ease-out;
 }
-body p:nth-of-type(3) {
+main p:nth-of-type(3) {
   grid-column: 6 / 10;
+  grid-row: 4;
   padding: 2em;
   max-width: 15em;
   font-size: 1.3em;
@@ -77,9 +92,9 @@ body p:nth-of-type(3) {
   transform: rotate(355deg) translate(0px, 0px) skew(-41deg, 0deg);
 }
 
-body p:nth-of-type(4) {
+main p:nth-of-type(4) {
   grid-column: 1 / 9;
-  grid-row: 3 / 5;
+  grid-row: 5;
   transition: rotate 90deg;
   font-size: 1.3em;
   max-width: 20em;
@@ -88,19 +103,43 @@ body p:nth-of-type(4) {
     "SRFS" 43;
 }
 
-body p:nth-of-type(5) {
+main p:nth-of-type(5) {
   grid-column: 6 / 9;
+  grid-row: 6/ 7;
   max-width: 10em;
   font-size: 1.3em;
   text-align: right;
   line-height: 2em;
 }
 
-body p:nth-of-type(6) {
+main p:nth-of-type(6) {
   grid-column: 1 / 9;
+  grid-row: 7 / 8;
   max-width: 20em;
   font-size: 1.4em;
   letter-spacing: 1em;
+}
+
+button {
+  grid-column: 8 / 10;
+  grid-row: 1;
+  background: radial-gradient(
+    var(--color-gradients),
+    var(--color-gradients2),
+    var(--color-gradients3)
+  );
+  color: var(--color-text);
+  font-size: var(--step-1);
+  border-radius: 0.3em;
+  border: none;
+  max-width: 15em;
+  max-height: 15em;
+  padding: 1em;
+}
+
+a {
+  color: black;
+  text-decoration: none;
 }
 
 @keyframes shake {
@@ -146,6 +185,7 @@ body p:nth-of-type(6) {
     transform: translateY(-30px) rotate(390deg) skew(-41deg, 0deg);
   }
 }
+
 
 :root {
   --aalt: 0;
