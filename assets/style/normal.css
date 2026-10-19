@@ -290,8 +290,8 @@ footer button::after {
   background-color: var(--CM-licht);
       color: var(--color-light);
       font-size: var(--step-00);
-      padding: 0.1rem 1.25rem 0.5rem 1.5rem;
-      border-radius: 1rem;
+      padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+      border-radius: 0.7rem;
       border-left: 6px solid var(--CM-middel);
 }
 
@@ -300,8 +300,8 @@ footer button::after {
   background-color: var(--CM-licht);
       color: var(--color-light);
       font-size: var(--step-00);
-      padding: 1.25rem 1.25rem 0.5rem 1.5rem;
-      border-radius: 1rem;
+      padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+      border-radius: 0.7rem;
       border-left: 6px solid var(--CM-middel);
       margin-top: 0.5rem;
       margin-bottom: 0.5rem;
@@ -311,22 +311,23 @@ footer button::after {
   background-color: var(--CM-licht);
       color: var(--color-light);
       font-size: var(--step-00);
-      padding: 1.25rem 1.25rem 0.5rem 1.5rem;
+      padding: 1.25rem 1.25rem 0.5rem 1.25rem;
       border-radius: 1rem;
       border-left: 6px solid var(--CM-middel);
-      margin-bottom: 1.5rem;
+      margin-bottom: 3em;
 }
 
 #cookieModal button:nth-of-type(1){
   background-color: var(--CM-middel);
   font-size: var(--step-0);
   color: var(--color-light);
-  padding: 0.7rem 1.25rem 0.5rem 1.0rem;
+  padding: 0.5rem 0.7rem 0.5rem 0.7rem;
   border-radius: 0.5rem;
   border-left: 6px solid var(--CM-middel);
-  margin-bottom: 1.5rem;
+  margin-bottom: 1em;
   border:none;
   margin-right: 0.5em;
+  margin-top: 1em;
 
 }
 
