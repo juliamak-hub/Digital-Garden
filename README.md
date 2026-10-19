@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 19 oktober
+Feedback: Verschillende soorten lelies toevoegen en plaatjes er bij doen.
+<img width="1056" height="747" alt="Scherm­afbeelding 2026-10-19 om 14 29 29" src="https://github.com/user-attachments/assets/c3850de9-d2ea-40c5-861b-12d9fb547d38" />
+
+
+
 ### 9 oktober
 1. Feedback Sara: Het ziet er cool uit. Ik kan goed de verschillende elementen zien van het liedje. Een top vind ik de animaties.Het is bewegelijk en het    geeft gevoel aan de songtekst. Tip: De snelle stukjes sneller laten lijken.
 2. Feedback Inger: Het is een heel vet design. Je heb veel uitgewerkt en het past echt bij het liedje. Het zou als extra cool zijn als het woord chop per letter echt een stukje gechopped is. Ook aan het einde zou het cool zijn om het stukje drop it wat meer naar voren te laten komen.
