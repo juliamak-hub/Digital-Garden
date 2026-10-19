@@ -261,6 +261,10 @@ footer button{
   border: none;
 }
 
+footer button:hover{
+ color: var(--a-hover);
+}
+
 footer button::after {
   content: "";
   color: var(--button-fade);
