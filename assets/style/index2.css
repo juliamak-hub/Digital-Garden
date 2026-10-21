@@ -131,6 +131,12 @@ main p:nth-of-type(6) {
   max-width: 20em;
   font-size: 1.4em;
   letter-spacing: 1em;
+  	animation-name:--the-animation;
+			animation-duration:6s;
+			animation-iteration-count:infinite;
+      	animation-timing-function: ease-in;
+ 
+	
 }
 
 button {
@@ -229,7 +235,14 @@ a {
 	}
 }
 
-
+@keyframes --the-animation {
+	0% {
+		translate:0;
+	}
+	100% {
+		translate:calc(100cqi - 3em);
+	}
+}
 
 
 :root {
