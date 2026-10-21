@@ -4,6 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 oktober
+Afgelopen dagen heb ik animaties toegevoegd aan mijn website. Ik heb vooral gebruik gemaakt van de animaties bij de songtekst.
+Bron: [Deep Dive Sanne animaties](https://dlo.mijnhva.nl/d2l/le/lessons/759389/folders/3112447)
+
+
 ### 19 oktober
 Feedback: Verschillende soorten lelies toevoegen en plaatjes er bij doen.
 <img width="1056" height="747" alt="Scherm­afbeelding 2026-10-19 om 14 29 29" src="https://github.com/user-attachments/assets/c3850de9-d2ea-40c5-861b-12d9fb547d38" />
