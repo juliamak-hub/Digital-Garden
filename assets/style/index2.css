@@ -205,19 +205,19 @@ a {
 
 @keyframes --wolf-animation {
 	0% {
-		translate:-1em 3em;
+		translate:-1em 1em;
 	}
 	25% {
-		translate:-1em -3em;
+		translate:-1em -1em;
 	}
 	50% {
-		translate:1em -3em;
+		translate:1em -1em;
 	}
 	75% {
-		translate:1em 3em;
+		translate:1em 1em;
 	}
 	100% {
-		translate:-1em 3em;
+		translate:-1em 1em;
 	}
 }
 
