@@ -22,13 +22,17 @@ html {
   --color-magenta: light-dark(#EDE6D8,#263B2E);
 }
 
+body {
+ background: var(--color-magenta);
+}
+
 main {
   padding: 2em;
   display: grid;
   grid-template-columns: repeat(12fr, 1fr);
   grid-template-rows: auto;
   font-family: "Seraphs";
-  background: var(--color-magenta);
+
 }
 
 main p:first-of-type {
