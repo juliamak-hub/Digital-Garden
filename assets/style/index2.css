@@ -19,6 +19,7 @@ html {
   --a-hover: #db6588;
   --a-focus: #e39bae;
   --a-focus2: deeppink;
+  --color-magenta: light-dark(#EDE6D8,#263B2E);
 }
 
 main {
@@ -27,6 +28,7 @@ main {
   grid-template-columns: repeat(12fr, 1fr);
   grid-template-rows: auto;
   font-family: "Seraphs";
+  background: var(--color-magenta);
 }
 
 main p:first-of-type {
