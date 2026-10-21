@@ -40,6 +40,7 @@ h2 {
   transform: rotate(330deg) translate(0px, 0px) skew(30deg, 0deg);
   font-family: "Seraphs";
   max-width: 15em;
+  animation: wave 4s infinite ease-in-out;
 }
 
 .Wop {
@@ -90,6 +91,10 @@ main p:nth-of-type(3) {
   font-size: 1.3em;
   text-align: right;
   transform: rotate(355deg) translate(0px, 0px) skew(-41deg, 0deg);
+  	animation-name:--wolf-animation;
+	animation-duration:4s;
+	animation-iteration-count:infinite;
+	animation-timing-function: linear;
 }
 
 main p:nth-of-type(4) {
@@ -132,9 +137,12 @@ button {
   font-size: var(--step-1);
   border-radius: 0.3em;
   border: none;
-  max-width: 15em;
-  max-height: 15em;
+  max-width: 6em;
+  max-height: 6em;
   padding: 1em;
+  animation-name:--gnome-animation;
+	animation-duration:2s;
+	animation-iteration-count:infinite;
 }
 
 a {
@@ -184,6 +192,33 @@ a {
   50% {
     transform: translateY(-30px) rotate(390deg) skew(-41deg, 0deg);
   }
+}
+
+@keyframes --gnome-animation {
+	0% {
+		rotate:0turn;
+	}
+	100% {
+		rotate:1turn;
+	}
+}
+
+@keyframes --wolf-animation {
+	0% {
+		translate:-3em 3em;
+	}
+	25% {
+		translate:-3em -3em;
+	}
+	50% {
+		translate:3em -3em;
+	}
+	75% {
+		translate:3em 3em;
+	}
+	100% {
+		translate:-3em 3em;
+	}
 }
 
 
