@@ -128,8 +128,8 @@ main p:nth-of-type(6) {
 }
 
 button {
-  grid-column: 8 / 10;
-  grid-row: 1;
+  grid-column: 4 / 6;
+  grid-row: 8;
   background: radial-gradient(
     var(--color-gradients),
     var(--color-gradients2),
