@@ -4,8 +4,8 @@ html {
 }
 
 @font-face {
-  font-family: "Seraphs";
-  src: url("./assets/type/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+  font-family: 'Seraphs';
+  src: url('../type/SeraphsVF.woff2') format('woff2'); /* Modern Browsers */
 }
 /* MARK: items */
 
