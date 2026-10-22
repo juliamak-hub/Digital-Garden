@@ -49,6 +49,21 @@
   }
 }
 
+@keyframes gloedAdem {
+  0% {
+    transform: scale(1);
+    filter: drop-shadow(0 2px 4px rgba(234, 179, 8, 0.2));
+  }
+  50% {
+    transform: scale(1.06);
+    filter: drop-shadow(0 10px 20px rgba(234, 179, 8, 0.5));
+  }
+  100% {
+    transform: scale(1);
+    filter: drop-shadow(0 2px 4px rgba(234, 179, 8, 0.2));
+  }
+}
+
 /**************************
 * MARK: Custom properties
 **************************/
@@ -373,6 +388,11 @@ padding-top: 3em;
 
 .contact {
 padding-bottom: 6em;
+}
+
+.Lelie-wit-geel {
+  display: inline-block;
+   animation: gloedAdem 1s infinite ease-in-out;
 }
 
 /**************************
