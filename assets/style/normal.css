@@ -130,9 +130,11 @@ video {
   height: auto;
 }
 
+
+
 article:first-of-type img:first-of-type {
   border-radius: 4em;
-  max-width: 17em;
+  height: auto;
 }
 
 article:nth-of-type(3) img:first-of-type {
