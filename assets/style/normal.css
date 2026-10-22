@@ -425,8 +425,9 @@ main {
   position: absolute;
   background: var(--color-magenta);
   color: var(--color-text);
-  padding: 7px 7px;
+  padding: 3px 3px;
   z-index: 1000;
+
 }
 
 /**************************
