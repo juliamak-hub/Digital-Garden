@@ -9,11 +9,19 @@ Afgelopen dagen heb ik animaties toegevoegd aan mijn website. Ik heb vooral gebr
 Bron: [Deep Dive Sanne animaties](https://dlo.mijnhva.nl/d2l/le/lessons/759389/folders/3112447)
 
 
+Oefenen met animaties in Codepen & [Bron: Mozilla ](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-delay)<img width="838" height="611" alt="Scherm­afbeelding 2026-10-22 om 12 42 35" src="https://github.com/user-attachments/assets/c3c9048a-8342-4fb8-845a-5a91bac63d24" />
+<img width="1206" height="738" alt="Scherm­afbeelding 2026-10-22 om 12 43 13" src="https://github.com/user-attachments/assets/3e746c9c-5c91-401f-8517-1ea9913ffe98" />
+
+
+
+
 ### 19 oktober
 Feedback: Verschillende soorten lelies toevoegen en plaatjes er bij doen.
 <img width="1056" height="747" alt="Scherm­afbeelding 2026-10-19 om 14 29 29" src="https://github.com/user-attachments/assets/c3850de9-d2ea-40c5-861b-12d9fb547d38" />
 
+<img width="587" height="592" alt="Scherm­afbeelding 2026-10-22 om 12 49 39" src="https://github.com/user-attachments/assets/ca9f08c8-7788-43a9-bae4-95d8265ab377" />
 
+In deze alinea van de songtekst heb ik een andere versie van het lettertype Seraphs toegevoegd.
 
 ### 9 oktober
 1. Feedback Sara: Het ziet er cool uit. Ik kan goed de verschillende elementen zien van het liedje. Een top vind ik de animaties.Het is bewegelijk en het    geeft gevoel aan de songtekst. Tip: De snelle stukjes sneller laten lijken.
