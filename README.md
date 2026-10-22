@@ -9,7 +9,7 @@ Ik heb de cookie button aangepast, omdat het niet echt een optie zou moeten hebb
 <img width="838" height="752" alt="Scherm­afbeelding 2026-10-22 om 22 29 12" src="https://github.com/user-attachments/assets/eeb5a014-8373-43a5-a811-4e78f5d81593" />
 
 Ik heb de wit-gele lelie op de eerste pagina van mijn website een animatie gegeven, zodat de gebruiker kan zien dat het klikbaar is. De lelie beweegt in en uit. Daarnaast heeft de lelie een gele shadow als het in ease out modus staat.
-<img width="409" height="405" alt="Scherm­afbeelding 2026-10-22 om 22 34 47" src="https://github.com/user-attachments/assets/e41637c4-5081-47a8-85da-e332e2560ddf" />
+<img width="398" height="386" alt="Scherm­afbeelding 2026-10-22 om 22 34 47" src="https://github.com/user-attachments/assets/e41637c4-5081-47a8-85da-e332e2560ddf" />
 <img width="398" height="386" alt="Scherm­afbeelding 2026-10-22 om 22 34 54" src="https://github.com/user-attachments/assets/82fd4271-6ff8-4396-a261-e3ddcc903d7e" />
 
 
