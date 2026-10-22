@@ -395,7 +395,15 @@ padding-bottom: 6em;
 
 .Lelie-wit-geel {
   display: inline-block;
-   animation: gloedAdem 1s infinite ease-in-out;
+  animation: gloedAdem 1s infinite ease-in-out;
+}
+
+.Lelie-wit-geel img {
+  display: block;
+  width: 87%;
+  max-width: 87%;
+  height:auto;
+  object-fit: contain;
 }
 
 /**************************
