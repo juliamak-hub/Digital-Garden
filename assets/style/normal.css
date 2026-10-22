@@ -135,7 +135,6 @@ video {
 article:first-of-type img:first-of-type {
   border-radius: 4em;
   height: auto;
-  max-width: 18em;
 }
 
 article:nth-of-type(3) img:first-of-type {
