@@ -24,13 +24,13 @@ Bron: [Deep Dive Sanne animaties](https://dlo.mijnhva.nl/d2l/le/lessons/759389/f
 
 
 Oefenen met animaties in Codepen & [Bron: Mozilla ](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-delay)<img width="600" height="400" alt="Scherm­afbeelding 2026-10-22 om 12 42 35" src="https://github.com/user-attachments/assets/c3c9048a-8342-4fb8-845a-5a91bac63d24" />
-<img width="1000" height="500" alt="Scherm­afbeelding 2026-10-22 om 12 43 13" src="https://github.com/user-attachments/assets/3e746c9c-5c91-401f-8517-1ea9913ffe98" />
+<img width="800" height="300" alt="Scherm­afbeelding 2026-10-22 om 12 43 13" src="https://github.com/user-attachments/assets/3e746c9c-5c91-401f-8517-1ea9913ffe98" />
 
-Weekly-Geek: <img width="700" height="380" alt="Scherm­afbeelding 2026-10-22 om 22 39 18" src="https://github.com/user-attachments/assets/128e4252-a5eb-4d90-bec2-602cafd2c8b7" />
+Weekly-Geek: <img width="600" height="500" alt="Scherm­afbeelding 2026-10-22 om 22 39 18" src="https://github.com/user-attachments/assets/128e4252-a5eb-4d90-bec2-602cafd2c8b7" />
 
-Feedback moment in groepjes van 3: <img width="579" height="772" alt="Scherm­afbeelding 2026-10-22 om 22 39 24" src="https://github.com/user-attachments/assets/a1033d72-7870-4330-b865-411c009736b1" />
+Feedback moment in groepjes van 3: <img width="250" height="430" alt="Scherm­afbeelding 2026-10-22 om 22 39 24" src="https://github.com/user-attachments/assets/a1033d72-7870-4330-b865-411c009736b1" />
 
-<img width="535" height="761" alt="Scherm­afbeelding 2026-10-22 om 22 39 32" src="https://github.com/user-attachments/assets/8d59b83b-bbb6-4c0f-af23-8991b52e060b" />
+<img width="250" height="430" alt="Scherm­afbeelding 2026-10-22 om 22 39 32" src="https://github.com/user-attachments/assets/8d59b83b-bbb6-4c0f-af23-8991b52e060b" />
 
 
 ### 19 oktober
