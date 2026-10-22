@@ -202,6 +202,7 @@ h1 {
   font-size: var(--step-3);
   color: var(--color-BO);
   margin-left: 1em;
+  margin-top: 1em;
 }
 
 h2 {
