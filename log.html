@@ -42,16 +42,45 @@
                     <textarea name="bericht"></textarea>
                 </label>
                 <label>
-                    <input type="checkbox" name="check" required> Ik ga akkoord met de algemene voorwaarde van juulsdomein.nl
+                    <input type="checkbox" name="check" required> Ik heb kennisgenomen van het cookiebeleid, zoals vermeld onderaan deze pagina.
                 </label>
                  <button>Verstuur</button>
             </fieldset>
         </form>  
     </main>
 
-
-    <footer>
-      <p>[Copyleft 2026, all wrongs reversed]</p>
+       <footer>
+      <button commandfor="cookieModal" command="show-modal">
+        <span>cookiebeleid</span>
+      </button>
     </footer>
+
+    <dialog id="cookieModal">
+      <form method="dialog">
+        <section>
+        <h3>Deze website maakt gebruik van cookies</h3>
+        <p>Voor een optimale werking en volledige transpiratie bied ik u inzicht in de opbouw van de website en de verwerking van gegevens.</p>
+        </section>
+
+        
+        <section>
+          <p>
+            <strong>Digitaaltuintje.nl:</strong> Intergratie die deze website verbindt met het netwerk van digitale tuinen om inhoud en updates onderling uit te wisselen.</p>
+        </section>
+
+        <section>
+          <p>
+            <strong>Github pages:</strong> Hostingprovider die de website serveert. Bij het opvragen van pagina's verwerkt de server technische gegevens zoals IP-adressen in serverlogs ter beveiliging.
+          </p>
+        </section>
+
+
+        
+        <button onclick="setCookie()">Cookiebeleid sluiten</button>
+      </form>
+    </dialog>
+
+
+   
   </body>
 </html>
