@@ -13,6 +13,15 @@ Ik heb de wit-gele lelie op de eerste pagina van mijn website een animatie gegev
 <img width="398" height="386" alt="Scherm­afbeelding 2026-10-22 om 22 34 54" src="https://github.com/user-attachments/assets/82fd4271-6ff8-4396-a261-e3ddcc903d7e" />
 
 
+Eindresultaat songtekst:https://github.com/user-attachments/assets/cf408b13-c0ba-4418-8aeb-f4eb3625fbf3
+Het filmpje gaat erg snel, omdat ik niet een video met meer als 10MB in de Readme kan zetten.
+
+
+
+
+
+
+
 
 
 
