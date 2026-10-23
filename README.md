@@ -4,6 +4,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 23 oktober
+
+
 ### 22 oktober
 Ik heb de cookie button aangepast, omdat het niet echt een optie zou moeten hebben om de cookies te accepteren of niet. Daarom heb ik het, het cookiebeleid genoemd die de opbouw van de website laat zien en verwerking van gegevens. Het zijn noodzakelijke cookies dus de cookies kunnen niet afgewezen worden. 
 <img width="838" height="752" alt="Scherm­afbeelding 2026-10-22 om 22 29 12" src="https://github.com/user-attachments/assets/eeb5a014-8373-43a5-a811-4e78f5d81593" />
@@ -35,6 +38,17 @@ Bron: [Deep Dive Sanne animaties](https://dlo.mijnhva.nl/d2l/le/lessons/759389/f
 Oefenen met animaties in Codepen & [Bron: Mozilla ](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-delay)<img width="600" height="400" alt="Scherm­afbeelding 2026-10-22 om 12 42 35" src="https://github.com/user-attachments/assets/c3c9048a-8342-4fb8-845a-5a91bac63d24" />
 <img width="800" height="300" alt="Scherm­afbeelding 2026-10-22 om 12 43 13" src="https://github.com/user-attachments/assets/3e746c9c-5c91-401f-8517-1ea9913ffe98" />
 
+Ook heb ik een scroll-driven animatie toegevoegd aan mijn songtekst. Als je je ver van dit stukje tekst op de pagina bevind is de tekst heel klein en als je dichterbij scroll word de tekst groter: 
+
+
+<img width="299" height="394" alt="Scherm­afbeelding 2026-10-23 om 09 34 00" src="https://github.com/user-attachments/assets/40005e24-0d4e-4e34-a1b7-a0ec9f818703" />
+<img width="372" height="413" alt="Scherm­afbeelding 2026-10-23 om 09 34 08" src="https://github.com/user-attachments/assets/3a6eb7c4-315c-4f11-b81f-2acf1e4eeaa5" />
+
+
+
+
+
+
 Weekly-Geek: <img width="700" height="550" alt="Scherm­afbeelding 2026-10-22 om 22 39 18" src="https://github.com/user-attachments/assets/128e4252-a5eb-4d90-bec2-602cafd2c8b7" />
 
 Feedback moment in groepjes van 3: 
@@ -52,6 +66,7 @@ Feedback: Verschillende soorten lelies toevoegen en plaatjes er bij doen.
 <img width="587" height="592" alt="Scherm­afbeelding 2026-10-22 om 12 49 39" src="https://github.com/user-attachments/assets/ca9f08c8-7788-43a9-bae4-95d8265ab377" />
 
 In deze alinea van de songtekst heb ik een andere versie van het lettertype Seraphs toegevoegd.
+
 
 ### 9 oktober
 1. Feedback Sara: Het ziet er cool uit. Ik kan goed de verschillende elementen zien van het liedje. Een top vind ik de animaties.Het is bewegelijk en het    geeft gevoel aan de songtekst. Tip: De snelle stukjes sneller laten lijken.
