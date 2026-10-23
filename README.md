@@ -25,7 +25,7 @@ Oefenen met animaties in Codepen & [Bron: Mozilla ](https://developer.mozilla.or
 
 
 <img width="600" height="400" alt="Scherm­afbeelding 2026-10-22 om 12 42 35" src="https://github.com/user-attachments/assets/c3c9048a-8342-4fb8-845a-5a91bac63d24" />
-<img width="800" height="300" alt="Scherm­afbeelding 2026-10-22 om 12 43 13" src="https://github.com/user-attachments/assets/3e746c9c-5c91-401f-8517-1ea9913ffe98" />
+<img width="600" height="400" alt="Scherm­afbeelding 2026-10-22 om 12 43 13" src="https://github.com/user-attachments/assets/3e746c9c-5c91-401f-8517-1ea9913ffe98" />
 
 Ook heb ik een scroll-driven animatie toegevoegd aan mijn songtekst. Als je je ver van dit stukje tekst op de pagina bevind is de tekst heel klein en als je dichterbij scroll word de tekst groter. Deze animatie heb ik geleerd op de website Bron: [css-tricks
 ](https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/)
