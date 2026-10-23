@@ -42,7 +42,7 @@ Ook heb ik een scroll-driven animatie toegevoegd aan mijn songtekst. Als je je v
 
 
 <img width="299" height="394" alt="Scherm­afbeelding 2026-10-23 om 09 34 00" src="https://github.com/user-attachments/assets/40005e24-0d4e-4e34-a1b7-a0ec9f818703" />
-<img width="372" height="413" alt="Scherm­afbeelding 2026-10-23 om 09 34 08" src="https://github.com/user-attachments/assets/3a6eb7c4-315c-4f11-b81f-2acf1e4eeaa5" />
+<img width="299" height="394" alt="Scherm­afbeelding 2026-10-23 om 09 34 08" src="https://github.com/user-attachments/assets/3a6eb7c4-315c-4f11-b81f-2acf1e4eeaa5" />
 
 
 
