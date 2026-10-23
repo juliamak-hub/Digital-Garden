@@ -4,9 +4,6 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 23 oktober
-
-
 ### 22 oktober
 Ik heb de cookie button aangepast, omdat het niet echt een optie zou moeten hebben om de cookies te accepteren of niet. Daarom heb ik het, het cookiebeleid genoemd die de opbouw van de website laat zien en verwerking van gegevens. Het zijn noodzakelijke cookies dus de cookies kunnen niet afgewezen worden. 
 <img width="838" height="752" alt="Scherm­afbeelding 2026-10-22 om 22 29 12" src="https://github.com/user-attachments/assets/eeb5a014-8373-43a5-a811-4e78f5d81593" />
