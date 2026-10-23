@@ -38,7 +38,9 @@ Ook heb ik een scroll-driven animatie toegevoegd aan mijn songtekst. Als je je v
 
 
 
-Weekly-Geek: <img width="700" height="550" alt="Scherm­afbeelding 2026-10-22 om 22 39 18" src="https://github.com/user-attachments/assets/128e4252-a5eb-4d90-bec2-602cafd2c8b7" />
+Weekly-Geek: 
+
+<img width="700" height="550" alt="Scherm­afbeelding 2026-10-22 om 22 39 18" src="https://github.com/user-attachments/assets/128e4252-a5eb-4d90-bec2-602cafd2c8b7" />
 
 Feedback moment in groepjes van 3: 
 
