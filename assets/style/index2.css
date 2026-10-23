@@ -123,6 +123,8 @@ main p:nth-of-type(5) {
   font-size: 1.3em;
   text-align: right;
   line-height: 2em;
+    animation: grow-progress linear forwards;
+  animation-timeline: scroll();
 }
 
 main p:nth-of-type(6) {
@@ -244,6 +246,14 @@ a {
 	}
 }
 
+@keyframes grow-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1.4);
+  }
+}
 
 :root {
   --aalt: 0;
