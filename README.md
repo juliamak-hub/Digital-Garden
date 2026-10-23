@@ -16,20 +16,6 @@ Ik heb de wit-gele lelie op de eerste pagina van mijn website een animatie gegev
 <img width="398" height="386" alt="Scherm­afbeelding 2026-10-22 om 22 34 54" src="https://github.com/user-attachments/assets/82fd4271-6ff8-4396-a261-e3ddcc903d7e" />
 
 
-Eindresultaat songtekst:https://github.com/user-attachments/assets/cf408b13-c0ba-4418-8aeb-f4eb3625fbf3
-Het filmpje gaat erg snel, omdat ik niet een video met meer als 10MB in de Readme kan zetten.
-
-
-
-
-
-
-
-
-
-
-
-
 ### 21 oktober
 Afgelopen dagen heb ik animaties toegevoegd aan mijn website. Ik heb vooral gebruik gemaakt van de animaties bij de songtekst.
 Bron: [Deep Dive Sanne animaties](https://dlo.mijnhva.nl/d2l/le/lessons/759389/folders/3112447)
@@ -38,8 +24,8 @@ Bron: [Deep Dive Sanne animaties](https://dlo.mijnhva.nl/d2l/le/lessons/759389/f
 Oefenen met animaties in Codepen & [Bron: Mozilla ](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-delay)<img width="600" height="400" alt="Scherm­afbeelding 2026-10-22 om 12 42 35" src="https://github.com/user-attachments/assets/c3c9048a-8342-4fb8-845a-5a91bac63d24" />
 <img width="800" height="300" alt="Scherm­afbeelding 2026-10-22 om 12 43 13" src="https://github.com/user-attachments/assets/3e746c9c-5c91-401f-8517-1ea9913ffe98" />
 
-Ook heb ik een scroll-driven animatie toegevoegd aan mijn songtekst. Als je je ver van dit stukje tekst op de pagina bevind is de tekst heel klein en als je dichterbij scroll word de tekst groter: 
-
+Ook heb ik een scroll-driven animatie toegevoegd aan mijn songtekst. Als je je ver van dit stukje tekst op de pagina bevind is de tekst heel klein en als je dichterbij scroll word de tekst groter. Deze animatie heb ik geleerd op de website Bron: [css-tricks
+](https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/)
 
 <img width="299" height="394" alt="Scherm­afbeelding 2026-10-23 om 09 34 00" src="https://github.com/user-attachments/assets/40005e24-0d4e-4e34-a1b7-a0ec9f818703" />
 <img width="299" height="394" alt="Scherm­afbeelding 2026-10-23 om 09 34 08" src="https://github.com/user-attachments/assets/3a6eb7c4-315c-4f11-b81f-2acf1e4eeaa5" />
