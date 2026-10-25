@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 23 oktober 
+De laatste retrospect
+
+
+<img width="593" height="790" alt="Scherm­afbeelding 2026-10-25 om 21 52 06" src="https://github.com/user-attachments/assets/5c73df2d-052f-4caf-974c-dc71c4ba1f9e" />
+<img width="593" height="784" alt="Scherm­afbeelding 2026-10-25 om 21 52 13" src="https://github.com/user-attachments/assets/527d926e-5025-4709-a763-a416754f13cf" />
+<img width="1237" height="776" alt="Scherm­afbeelding 2026-10-25 om 21 52 22" src="https://github.com/user-attachments/assets/abb0ee07-23bc-42ae-9469-c60ae27930bb" />
+
+
+<img width="1072" height="784" alt="Scherm­afbeelding 2026-10-25 om 21 52 44" src="https://github.com/user-attachments/assets/d3a325c7-0ccd-4a88-8b2b-f08e53415013" />
+
+
 ### 22 oktober
 Ik heb de cookie button aangepast, omdat het niet echt een optie zou moeten hebben om de cookies te accepteren of niet. Daarom heb ik het, het cookiebeleid genoemd die de opbouw van de website laat zien en verwerking van gegevens. Het zijn noodzakelijke cookies dus de cookies kunnen niet afgewezen worden. 
 <img width="838" height="752" alt="Scherm­afbeelding 2026-10-22 om 22 29 12" src="https://github.com/user-attachments/assets/eeb5a014-8373-43a5-a811-4e78f5d81593" />
