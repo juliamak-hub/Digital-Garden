@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 26 oktober
+
+<img width="700" height="500" alt="Scherm­afbeelding 2026-10-26 om 20 19 57" src="https://github.com/user-attachments/assets/5da53015-6417-4213-9423-17837f2e1411" />
+<img width="700" height="500" alt="Scherm­afbeelding 2026-10-26 om 20 19 47" src="https://github.com/user-attachments/assets/e0fd784a-ab4c-4b1a-a3c8-8d91ae23a864" />
+<img width="700" height="500" alt="Scherm­afbeelding 2026-10-26 om 20 19 39" src="https://github.com/user-attachments/assets/231e49e5-007f-4b96-a701-7d77a49fbeb7" />
+
+
+Wat heb ik geleerd van de expo: 
+Ten eerste, zelfs als je denk dat alles werkt en klopt zijn er toch dingen die je over het hoofd kan zien. Het is dan heel fijn dat iemand anders naar je werk kijkt en je daarop kan wijzen. Ten tweede heb ik ook hele geruststellende feedback gekregen op mijn website. Feedback zoals "Duidelijke uitleg en beschrijving van de cookies." Zodat ik zeker weet dat niet alleen ik maar ook andere mijn cookie button begrijpen. En als laatst heb ik natuurlijk mede klasgenoten hun werk kunnen bewonderen en daar inspiratie uit kunnen opdoen. 
+
+
+
 ### 23 oktober 
 De laatste retrospect
 
@@ -216,7 +228,7 @@ Ik ben bezig geweest met mijn login pagina. Als de gebruiker niks invult, niet a
 Mijn design voor een cookie pop-up button:
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-28 om 13 29 02" src="https://github.com/user-attachments/assets/8165a67a-e77e-4329-abdc-e9f36db82fdf" />
 
-Mijn basis uitwerking in Figma:
+Mijn basis uitwerking:
 Waarom deze button gebruikersvriendelijk is. De externe diensten zijn op de eerste pagina's getoond. De gebruiker hoeft niet ver opzoek naar deze informatie. De weiger en akkoord button hebben hetzelfde ontwerp. Er word getoond waarom de platformen in de website zitten.
 
 NS app zonder toetsenbord:
