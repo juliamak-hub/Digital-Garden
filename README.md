@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 26 oktober
 
-<img width="1201" height="777" alt="Scherm­afbeelding 2026-10-26 om 20 19 57" src="https://github.com/user-attachments/assets/5da53015-6417-4213-9423-17837f2e1411" />
+<img width="700" height="500" alt="Scherm­afbeelding 2026-10-26 om 20 19 57" src="https://github.com/user-attachments/assets/5da53015-6417-4213-9423-17837f2e1411" />
 <img width="700" height="500" alt="Scherm­afbeelding 2026-10-26 om 20 19 47" src="https://github.com/user-attachments/assets/e0fd784a-ab4c-4b1a-a3c8-8d91ae23a864" />
 <img width="700" height="500" alt="Scherm­afbeelding 2026-10-26 om 20 19 39" src="https://github.com/user-attachments/assets/231e49e5-007f-4b96-a701-7d77a49fbeb7" />
 
