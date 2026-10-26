@@ -216,7 +216,7 @@ Ik ben bezig geweest met mijn login pagina. Als de gebruiker niks invult, niet a
 Mijn design voor een cookie pop-up button:
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-28 om 13 29 02" src="https://github.com/user-attachments/assets/8165a67a-e77e-4329-abdc-e9f36db82fdf" />
 
-Mijn basis uitwerking in Figma:
+Mijn basis uitwerking:
 Waarom deze button gebruikersvriendelijk is. De externe diensten zijn op de eerste pagina's getoond. De gebruiker hoeft niet ver opzoek naar deze informatie. De weiger en akkoord button hebben hetzelfde ontwerp. Er word getoond waarom de platformen in de website zitten.
 
 NS app zonder toetsenbord:
