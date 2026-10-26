@@ -1,8 +1,19 @@
-# Model
+<img width="587" height="791" alt="Scherm­afbeelding 2026-10-26 om 20 19 47" src="https://github.com/user-attachments/assets/121f5397-4fc4-4bc9-bcc2-86c87a59b93b" /><img width="1201" height="777" alt="Scherm­afbeelding 2026-10-26 om 20 19 57" src="https://github.com/user-attachments/assets/8032d478-4076-4fdb-a6ae-3721d093bccf" /># Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+
+### 26 oktober
+
+<img width="587" height="791" alt="Scherm­afbeelding 2026-10-26 om 20 19 47" src="https://github.com/user-attachments/assets/e6bdc0ab-f021-4148-9b33-c25a2ea96358" />
+<img width="588" height="792" alt="Scherm­afbeelding 2026-10-26 om 20 19 39" src="https://github.com/user-attachments/assets/ac419d0d-b24d-427b-b9fb-ac237383abd9" />
+<img width="588" height="792" alt="Scherm­afbeelding 2026-10-26 om 20 19 39" src="https://github.com/user-attachments/assets/ff8cdaab-9fd1-4bcb-acd1-53b2228519fb" />
+
+Wat heb ik geleerd van de expo: 
+Ten eerste, zelfs als je denk dat alles werkt en klopt zijn er toch dingen die je over het hoofd kan zien. Het is dan heel fijn dat iemand anders naar je werk kijkt en je daarop kan wijzen. Ten tweede heb ik ook hele geruststellende feedback gekregen op mijn website. Feedback zoals "Duidelijke uitleg en beschrijving van de cookies." Zodat ik zeker weet dat niet alleen ik maar ook andere mijn cookie button begrijpen. En als laatst heb ik natuurlijk mede klasgenoten hun werk kunnen bewonderen en daar inspiratie uit kunnen opdoen. 
+
+
 
 ### 23 oktober 
 De laatste retrospect
