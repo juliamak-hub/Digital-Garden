@@ -364,16 +364,6 @@ footer button::after {
 
 }
 
-#cookieModal button:nth-of-type(2){
-  background-color: var(--CM-middel);
-  font-size: var(--step-0);
-  color: var(--color-light);
-  padding: 0.7rem 1.25rem 0.5rem 1.0rem;
-  border-radius: 0.5rem;
-  border-left: 6px solid var(--CM-middel);
-  margin-bottom: 1.5rem;
-  border:none;
-}
 
 
 input:user-valid {
