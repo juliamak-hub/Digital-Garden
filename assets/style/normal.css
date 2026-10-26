@@ -394,12 +394,12 @@ padding-top: 3em;
 padding-bottom: 6em;
 }
 
-.Lelie-wit-geel-songtekst {
+.Lelie-wit-geel {
   display: inline-block;
   animation: gloedAdem 1s infinite ease-in-out;
 }
 
-.Lelie-wit-geel-songtekst img {
+.Lelie-wit-geel img {
   display: block;
   width: 87%;
   max-width: 87%;
