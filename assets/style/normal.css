@@ -260,8 +260,16 @@ header h1 mark {
 header ul {
 grid-area: header;
 gap: 3em;
-margin: var(--whitespace);
-padding: var(--whitespace);
+margin: var(--whitespace-s);
+padding: var(--whitespace-s);
+}
+
+header ul li {
+  margin-bottom: 0.5em;
+}
+
+header ul li a {
+  font-size: var(--step-0);
 }
 
 /**************************
